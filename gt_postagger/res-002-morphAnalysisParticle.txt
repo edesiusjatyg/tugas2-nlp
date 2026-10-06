@@ -1,0 +1,46 @@
+ilmiah	JJ
+Jum	
+tetangga	NN
+terbuka	VB,JJ
+ka	
+sekutu	NN
+industri	NN
+khusus	JJ
+terjadi	VB
+umum	JJ
+dimulai	VB
+Lain	JJ
+koloni	NN
+lain	JJ
+runtuh	VB,JJ
+pu	
+negeri	NN
+koloni	NN
+negara	NN
+masuk	VB
+sekutu	NN
+pemerintah	NN
+tindakan	NN
+aliansi	NN
+kolonial	JJ
+menganeksasi	
+dasar	NN
+menjadikan	VB
+keberatan	NN
+lain	JJ
+berikut	VB
+aneksasi	
+terbaik	JJ
+ka	
+menyebut	VB
+lain	JJ
+membelah	VB
+hak	NN
+pertama	
+dikeluarkan	VB
+satu	
+berat	JJ
+dibe	VB
+Awal	NN
+operasi	NN
+pemblokiran	NN

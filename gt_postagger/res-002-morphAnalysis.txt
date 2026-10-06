@@ -1,0 +1,1211 @@
+﻿Perang	
+Dunia	NN
+disingkat	VB
+menjadi	VB
+sebuah	
+perang	NN
+global	
+berlangsung	VB
+mulai	VB
+tahun	NN
+Perang	NN
+melibatkan	VB
+negara	NN
+penjuru	NN
+dunia	NN
+termasuk	
+kekuatan	NN
+besar-yang	JJ
+membentuk	VB
+aliansi	NN
+militer	NN
+bertentangan	VB
+Perang	NN
+merupakan	VB
+perang	NN
+terluas	JJ
+sejarah	NN
+melibatkan	VB
+pasukan	NN
+militer	NN
+keadaan	NN
+negara-negara	NN
+besar	JJ
+memaksimalkan	VB
+kemampuan	NN
+ekonomi	VB,NN
+industri	NN
+pengetahuan	NN
+ilmiahnya	JJ
+keperluan	NN
+perang	NN
+menghapus	VB
+perbedaan	NN
+antara	
+sipil	JJ
+militer	NN
+Ditandai	VB
+peristiwa	NN
+penting	JJ
+melibatkan	VB
+kematian	NN
+massal	NN
+warga	NN
+sipil	JJ
+termasuk	
+pemakaian	NN
+senjata	NN
+destruktif	
+peperangan	
+perang	NN
+memakan	VB
+korban	NN
+jiwa	NN
+jiwa	NN
+Jumlah	NN
+kematian	NN
+menjadikan	VB
+konflik	NN
+mematikan	VB
+sepanjang	
+sejarah	NN
+ahli	NN
+berpendapat	VB
+dimulai	VB
+invasi	NN
+menuju	VB
+tanggal	VB,NN
+berakhir	VB
+kapitulasi	
+tanggal	VB,NN
+Ada	JJ
+berpendapat	VB
+dimulai	VB
+tujuan	NN
+mendapatkan	VB
+pengaruh	NN
+kawasan	NN
+mendapatkan	VB
+perang	NN
+dunia	NN
+secara	JJ
+umum	JJ
+pecah	VB,JJ
+tanggal	VB,NN
+invasi	NN
+diikuti	VB
+serangkaian	
+pernyataan	NN
+perang	NN
+tanggal	VB,NN
+akhir	NN
+tahun	NN
+awal	NN
+serangkaian	
+kampanye	NN
+perjanjian	NN
+membentuk	VB
+aliansi	NN
+bersama	VB
+menguasai	VB
+menaklukkan	VB
+benua	NN
+berpisah	VB
+menganeksasi	
+wilayah	NN
+negara-negara	NN
+tetangganya	NN
+sendiri	JJ
+termasuk	
+Britania	
+imperium	
+menjadi	VB
+kekuatan	NN
+besar	JJ
+berperang	VB
+melawan	VB
+blok	NN
+mengadakan	VB
+pertempuran	NN
+Bulan	NN
+Poros	
+melancarkan	VB
+invasi	NN
+menandakan	VB
+terbukanya	VB,JJ
+invasi	NN
+darat	NN
+terbesar	JJ
+sepanjang	
+sejarah	NN
+melibatkan	VB
+pasukan	NN
+militer	NN
+akhir	NN
+perang	NN
+bulan	NN
+bergabung	VB
+blok	NN
+menyerang	VB
+teritori	NN
+cepat	JJ
+menguasai	VB
+Serbuan	NN
+berhenti	VB
+tahun	NN
+kalah	JJ
+pertempuran	NN
+laut	NN
+mengalami	VB
+kemunduran	NN
+front	
+Tentara	NN
+dikalahkan	VB
+tahun	NN
+melalui	
+serangkaian	
+kekalahan	NN
+invasi	NN
+kemenangan	NN
+kehilangan	NN
+inisiatif	NN
+mundur	VB
+secara	JJ
+strategis	JJ
+front	
+Tahun	NN
+pihak	NN
+menyerbu	VB
+sementara	
+merebut	VB
+kembali	VB
+teritori	NN
+dicaplok	VB
+menyerbu	VB
+beserta	
+sekutunya	NN
+Perang	NN
+berakhir	VB
+pendudukan	NN
+tentara	NN
+penyerahan	NN
+syarat	NN
+tanggal	VB,NN
+Sepanjang	
+mengalahkan	VB
+menduduki	VB
+pulau	NN
+menjatuhkan	VB
+negara	NN
+menjelang	
+invasi	NN
+Uni	NN
+mengikuti	VB
+menyatakan	VB
+perang	NN
+menyerbu	VB
+Kekaisaran	NN
+menyerah	VB
+tanggal	VB,NN
+mengakhiri	VB
+perang	NN
+memperkuat	VB
+kemenangan	NN
+total	NN
+Perang	NN
+mengubah	VB
+dunia	NN
+Perserikatan	NN
+(PBB)	
+didirikan	VB
+memperkuat	VB
+internasional	JJ
+mencegah	VB
+konflik-konflik	NN
+datang	VB
+kekuatan	NN
+besar	JJ
+merupakan	VB
+pemenang	NN
+perang-Amerika	NN
+anggota	NN
+Uni	NN
+muncul	VB
+kekuatan	NN
+super	
+bersaing	VB
+mendirikan	VB
+panggung	NN
+kelak	
+bertahan	VB
+selama	JJ
+tahun	NN
+Sementara itu	
+pengaruh	NN
+kekuatan-kekuatan	NN
+besar	JJ
+mulai	VB
+melemah	VB
+dekolonisasi	
+dimulai	VB
+Kebanyakan	NN
+negara	NN
+industrinya	NN
+terkena	VB
+dampak	NN
+buruk	JJ
+mulai	VB
+menjalani	VB
+pemulihan	NN
+ekonomi	VB,NN
+Integrasi	NN
+politik	NN
+khususnya	
+muncul	VB
+upaya	NN
+menstabilkan	VB
+hubungan	NN
+pascaperang	JJ,NN
+Awal	NN
+terjadinya	VB
+perang	NN
+umumnya	
+disetujui	VB
+tanggal	VB,NN
+dimulai	VB
+invasi	NN
+menyatakan	VB
+perang	NN
+Tanggal	VB,NN
+lain	JJ
+awal	NN
+perang	NN
+dimulainya	VB
+Lainnya	
+mengikuti	VB
+sejarawan	
+J	
+P	
+Taylor	
+percaya	VB
+perang	NN
+beserta	
+koloninya	NN
+terjadi	VB
+bersamaan	VB
+perang	NN
+bergabung	VB
+tahun	NN
+Artikel	NN
+memakai	VB
+penanggalan	NN
+konvesional	
+Tanggal-tanggal	VB,NN
+awal	NN
+lainnya	
+dipakai	VB
+meliputi	VB
+invasi	NN
+tanggal	VB,NN
+Sejarawan	
+memandang	VB
+awal	NN
+terjadi	VB
+menyerbu	VB
+bulan	NN
+Tanggal	VB,NN
+pasti	JJ
+akhir	NN
+perang	NN
+disetujui	VB
+secara	JJ
+universal	
+dulu	
+disebutkan	VB
+perang	NN
+berakhir	VB
+(V-J	
+alih-alih	VB
+penyerahan	NN
+diri	VB,NN
+resmi	JJ
+teks	NN
+sejarah	NN
+perang	NN
+berakhir	VB
+ditandatangani	VB
+tahun	NN
+tahun	NN
+Perang	NN
+membuat	VB
+perubahan	NN
+besar	JJ
+kekalahan	NN
+termasuk	
+perebutan	NN
+kekuasaan	NN
+tahun	NN
+Sementara itu	
+negara-negara	NN
+menang	VB,JJ
+negara-negara	NN
+tercipta	VB
+runtuhnya	VB,JJ
+muncul	VB
+gerakan	VB,NN
+pasifis	
+kekalahan	NN
+membuat	VB
+nasionalisme	
+iredentisme	
+revanchism	
+berkembang	VB
+Iredentisme	
+revanchism	
+punya	VB
+pengaruh	NN
+kuat	JJ
+kehilangan	NN
+teritori	NN
+koloni	NN
+keuangan	NN
+besar	JJ
+akibat	NN
+Menurut	
+perjanjian	NN
+kehilangan	NN
+wilayah	NN
+negerinya	NN
+koloninya	NN
+sementara itu	
+dilarang	VB
+menganeksasi	
+negara	NN
+lain	JJ
+membayar	VB
+biaya	NN
+perbaikan	NN
+perang	NN
+besar	JJ
+membatasi	VB
+ukuran	NN
+kemampuan	NN
+negaranya	NN
+menjadi	VB
+tentara	NN
+ukuran	NN
+tonase	
+maksimal	JJ
+⅓	
+kapal	NN
+terbesar	JJ
+Kekaisaran	NN
+bubar	VB
+melalui	
+kemenangan	NN
+tentara	NN
+merah	JJ
+berubah	VB
+menjadi	VB
+sebuah	
+pemerintahan	NN
+demokratis	NN
+dikenal	VB
+nama	NN
+Periode	NN
+antarperang	NN
+melibatkan	VB
+kerusuhan	NN
+antara	
+pendukung	NN
+republik	
+penentang	NN
+sayap	NN
+kanan	JJ
+kiri	JJ
+selaku	
+sekutu	NN
+berhasil	JJ
+merebut	VB
+wilayah	NN
+kaum	NN
+nasionalis	
+marah	JJ
+mengetahui	VB
+janji-janji	NN
+menjamin	VB
+masuknya	VB
+kancah	
+perang	NN
+dipenuhi	VB
+penyelesaian	NN
+damai	JJ
+gerakan	VB,NN
+pimpinan	NN
+berkuasa	VB
+agenda	NN
+nasionalis	
+totalitarian	
+kolaborasionis	
+kelas	NN
+menghapus	VB
+penindasan	NN
+sosialis	JJ
+kaum	NN
+sayap	NN
+kiri	JJ
+liberal	NN
+mengejar	VB
+kebijakan	NN
+agresif	JJ
+berusaha	VB
+membawa	VB
+kekuatan	NN
+dunia-	NN
+Kekaisaran	NN
+dipimpin	VB
+berupaya	VB
+mendirikan	VB
+pemerintahan	NN
+fasis	
+dimulai	VB
+dukungan	NN
+meningkat	VB
+tahun	NN
+Hitler	
+ditunjuk	VB
+peristiwa	NN
+kebakaran	NN
+menciptakan	VB
+negara	NN
+partai	NN
+totalitarian	
+dipimpin	VB
+Partai	NN
+(KMT)	
+melancarkan	VB
+kampanye	NN
+penyatuan	NN
+melawan	VB
+panglima	NN
+perang	NN
+regional	JJ
+secara	JJ
+nominal	
+berhasil	JJ
+menyatukan	VB
+pertengahan	NN
+langsung	JJ
+terlibat	VB
+melawan	VB
+bekas	JJ
+sekutunya	NN
+komunis	NN
+tahun	NN
+Kekaisaran	NN
+militeristik	
+lama	JJ
+berusaha	VB
+memengaruhi	
+tahap	NN
+disebut	VB
+pemerintahnya	NN
+hak	NN
+menguasai	VB
+memakai	VB
+alasan	NN
+melancarkan	VB
+invasi	NN
+mendirikan	VB
+Terlalu	
+lemah	JJ
+melawan	VB
+meminta	VB
+bantuan	NN
+dikecam	VB
+tindakannya	NN
+negara	NN
+bertempur	VB
+ditandatangani	VB
+tahun	NN
+pasukan	NN
+sukarelawan	NN
+melanjutkan	VB
+pemberontakan	NN
+agresi	NN
+Adolf	
+upaya	NN
+gagal	JJ
+menggulingkan	VB
+pemerintah	NN
+tahun	NN
+menjadi	VB
+tahun	NN
+Disebabkan	VB
+menjadi	VB
+partai	NN
+terbesar	JJ
+parlemen	NN
+meninggal	VB
+mendeklarasikan	VB
+diri	VB,NN
+menghapus	VB
+demokrasi	NN
+menciptakan	VB
+rezim	NN
+mementingkan	VB
+chauvinisme	
+memulai	VB
+serangkaian	
+program	NN
+pembangunan	NN
+kembali	VB
+ekonomi	VB,NN
+terpuruk	VB
+kampanye	NN
+persenjataan	NN
+kembali	VB
+Sementara itu	
+melindungi	VB
+aliansinya	NN
+memberikan	VB
+kendali	NN
+diinginkan	VB
+jajahan	NN
+kolonialnya	JJ
+Situasi	NN
+memburuk	VB
+awal	NN
+sah	JJ
+bersatu	
+kembali	VB
+memerintahkan	VB
+menganeksasinya	
+teritori	NN
+Berharap	VB
+mencegah	VB
+membentuk	VB
+Uni	NN
+khawatir	JJ
+keinginan	NN
+mencaplok	VB
+wilayah	NN
+luas	JJ
+membuat	VB
+perjanjian	NN
+bantuan	NN
+bersama	VB
+diberlakukan	VB
+pakta	NN
+melewati	VB
+birokrasi	NN
+dasarnya	NN
+menjadikannya	VB
+berguna	VB
+bulan	NN
+Britania	
+membuat	VB
+perjanjian	NN
+laut	NN
+independen	JJ
+melonggarkkan	
+batasan-batasan	NN
+mempertimbangkan	VB
+peristiwa	NN
+terjadi	VB
+mengesahkan	VB
+bulan	NN
+bulan	NN
+menginvasi	VB
+mendukung	VB
+tindakan	NN
+langsung	JJ
+menarik	VB,JJ
+keberatannya	NN
+tindakan	NN
+menganeksasi	
+Hitler	
+menolak	VB
+melakukan	VB
+remiliterisasi	
+bulan	NN
+mendapat	VB
+tanggapan	NN
+kekuatan-kekuatan	NN
+lainnya	
+pecah	VB,JJ
+bulan	NN
+mendukung	VB
+pasukan	NN
+fasis	
+otoriter	JJ
+melawan	VB
+didukung	VB
+pihak	NN
+memakai	VB
+konflik	NN
+menguji	VB
+senjata	NN
+metode	NN
+peperangan	
+berakhir	VB
+kemenangan	NN
+awal	NN
+Bulan	NN
+membentuk	VB
+Sebulan	JJ
+menandatangani	VB
+kelak	
+diikuti	VB
+tahun	NN
+berikutnya	
+an	
+pasukan	NN
+menyetujui	VB
+membentuk	VB
+front	
+bersatu	
+bersama-sama	VB
+melawan	VB
+Perang	NN
+singkat	JJ
+mulai	VB
+bulan	NN
+Perang	NN
+terjadi	VB
+antara	
+(Regno	
+d	
+(juga	
+disebut	VB
+Perang	NN
+berakhir	VB
+pendudukan	NN
+militer	NN
+aneksasinya	
+koloni	NN
+(Africa	
+perang	NN
+membuka	VB
+kelemahan	NN
+kekuatan	NN
+pelindung	NN
+perdamaian	NN
+Baik	JJ
+negara	NN
+anggota	NN
+berbuat	VB
+apa-apa	NN
+negara	NN
+jelas-jelas	JJ
+melanggar	VB
+dibuat	VB
+memberi	VB
+dukungan	NN
+pemberontak	NN
+dipimpin	VB
+Uni	NN
+mendukung	VB
+pemerintah	NN
+berdiri	VB
+memiliki	VB
+kecenderungan	NN
+sayap	NN
+kiri	JJ
+Baik	JJ
+memakai	VB
+perang	NN
+proksi	
+kesempatan	NN
+menguji	VB
+senjata	NN
+taktik	NN
+Pengeboman	
+disengaja	
+berkontribusi	VB
+kekhawatiran	NN
+perang	NN
+besar	JJ
+melibatkan	VB
+serangan	NN
+bom	NN
+teror	NN
+besar-besaran	NN
+warga	NN
+sipil	JJ
+bulan	NN
+mencaplok	VB
+bekas	JJ
+kekaisaran	NN
+memulai	VB
+menjadi	VB
+batu	NN
+pijakan	
+kampanye	NN
+menjajah	VB
+wilayah	NN
+Uni	NN
+menandatangani	VB
+pakta	NN
+non-agresi	NN
+memberi	VB
+dukungan	NN
+material	NN
+secara	JJ
+efektif	JJ
+mengakhiri	VB
+Generalissimo	
+mengerahkan	VB
+pasukan	NN
+terbaiknya	JJ
+mempertahankan	VB
+bulan	NN
+bertempur	VB
+jatuh	VB
+menekan	VB
+pasukan	NN
+mencaplok	VB
+melakukan	VB
+bulan	NN
+pasukan	NN
+menghentikan	VB
+serbuan	NN
+membanjiri	VB
+manuver	NN
+memberikan	VB
+waktu	NN
+mempersiapkan	VB
+pertahanan	NN
+kota	NN
+berhasil	JJ
+direbut	VB
+bulan	NN
+Kemenangan	NN
+militer	NN
+gagal	JJ
+menghentikan	VB
+pemberontakan	NN
+menjadi	VB
+tujuan	NN
+Pemerintahan	NN
+pindah	VB
+pedalaman	
+melanjutkan	VB
+perang	NN
+tanggal	VB,NN
+menyerbu	VB
+kalah	JJ
+pertempuran	NN
+dimenangkan	VB
+menyebutnya	VB
+seri	JJ
+buntu	NN
+tanggal	VB,NN
+memutuskan	VB
+memindahkan	VB
+perbatasan	NN
+melalui	
+pemaksaan	NN
+serangkaian	
+keberhasilan	NN
+awal	NN
+serangan	NN
+digagalkan	VB
+menandakan	VB
+kekalahan	NN
+besar	JJ
+Pertempuran	NN
+meyakinkan	VB
+faksi	NN
+pemerintahan	NN
+fokus	NN
+berkonsiliasi	
+pemerintah	NN
+menghindari	VB
+ikut	VB
+campur	VB
+perang	NN
+melawan	VB
+mengalihkan	VB
+perhatian	NN
+militer	NN
+selatan	NN
+jajahan	NN
+mencegah	VB
+penggulingan	NN
+pemimpin	NN
+militer	NN
+berpengalaman	VB
+kelak	
+penting	JJ
+mempertahankan	VB
+keras	JJ
+bulan	NN
+menganeksasi	
+mendapat	VB
+perhatian	NN
+kekuatan-kekuatan	NN
+lainnya	
+tertantang	VB
+mulai	VB
+menegaskan	VB
+klaim	NN
+wilayah	NN
+didominasi	VB
+etnis	NN
+memberikan	VB
+wilayah	NN
+melalui	
+dibuat	VB
+melawan	VB
+keinginan	NN
+pemerintah	NN
+imbalan	NN
+janji	NN
+meminta	VB
+wilayah	NN
+Sesaat	JJ
+perjanjian	NN
+memaksa	VB
+menyerahkan	VB
+wilayah	NN
+tambahan	NN
+bulan	NN
+menyerbu	VB
+sisa	NN
+membelahnya	VB
+menjadi	VB
+negara	NN
+klien	NN
+pro-Jerman	NN
+bernama	VB
+Terkejut	VB
+ditambah	VB
+menuntut	VB
+menjamin	VB
+dukungan	NN
+kemerdekaan	NN
+menguasai	VB
+bulan	NN
+jaminan	NN
+sama	JJ
+diberikan	VB
+lama	JJ
+janji	NN
+meresmikan	VB
+aliansi	NN
+sendiri	JJ
+melalui	
+Bulan	NN
+menandatangani	VB
+sebuah	
+perjanjian	NN
+non-agresi	NN
+protokol	NN
+rahasia	NN
+pihak	NN
+memberikan	VB
+haknya	NN
+sama	JJ
+lain	JJ
+andai	NN
+terjadi	VB
+penyusunan	NN
+wilayah	NN
+politik	NN
+cakupan	NN
+pengaruh	NN
+(antara	
+timur	NN
+Pakta	NN
+memunculkan	VB
+pertanyaan	NN
+tentang	VB
+keberlangsungan	
+kemerdekaan	NN
+tanggal	VB,NN
+klien	NN
+tahun	NN
+Tanggal	VB,NN
+diikuti	VB
+negara-negara	NN
+menyatakan	VB
+perang	NN
+memberi	VB
+dukungan	NN
+serangan	NN
+kecil	JJ
+Britania	
+mulai	VB
+memblokir	VB
+perairan	NN
+tanggal	VB,NN
+melemahkan	VB
+ekonomi	VB,NN
+upaya	NN
+perang	NN
+negara	NN
+Tanggal	VB,NN
+menandatangani	VB
+menyerbu	VB
+Wilayah	NN
+terbagi	VB
+antara	
+mendapat	VB
+bagian	NN
+kecil	JJ
+menyerah	VB
+mendirikan	VB
+bawah	NN
+tanah	NN
+berperang	VB
+bersama	VB
+front	
+luar	JJ,NN
+personel	NN
+militer	NN
+diungsikan	VB
+negara-negara	NN
+tentara	NN
+berperang	VB
+melawan	VB
+teater	
+perang	NN
+lain	JJ
+Pemecah	NN
+kode	NN
+diungsikan	VB
+melancarkan	VB
+serangan	NN
+pertamanya	
+sebuah	
+kota	NN
+strategis	JJ
+digagalkan	VB
+akhir	NN
+invasi	NN
+perjanjian	NN
+memaksa	VB
+negara-negara	NN
+mengizinkan	VB
+menempatkan	VB
+tentara	NN
+negara	NN
+alasan	NN
+bantuan	NN
+bersama	VB
+menolak	VB
+permintaan	NN
+wilayah	NN
+diserang	VB
+bulan	NN
+Konflik	NN
+pecah	VB,JJ
+berakhir	VB
+bulan	NN
+konsesi	NN
+Prancis	NN
+menyebut	VB
+serangan	NN
+alasan	NN
+memasuki	VB
+kancah	
+perang	NN
+pihak	NN
+menanggapi	VB
+invasi	NN
+mendukung	VB
+dikeluarkannya	VB
+tentara	NN
+dikerahkan	VB
+benua	NN
+fase	
+dijuluki	VB
+Sitzkrieg	
+(perang	
+duduk)	
+satupun	
+pihak	NN
+melancarkan	VB
+operasi	NN
+besar-besaran	NN
+sama	JJ
+lain	JJ
+Uni	NN
+membuat	VB
+pakta	NN
+dagang	VB
+bulan	NN
+berarti	VB
+menerima	VB
+industri	NN
+imbalan	NN
+menyediakan	VB
+mengakali	VB
+pemblokiran	NN
+bulan	NN
+menginvasi	VB
+mengamankan	VB
+pengiriman	NN
+dihadang	VB
+langsung	JJ
+menyerah	VB
+dibantu	VB
+berhasil	JJ
+dikuasai	VB
+waktu	NN
+bulan	NN
+Bulan	NN
+Britania	
+menyerbu	VB
+mencegah	VB
+kemungkinan	NN
+invasi	NN
+pulau	NN
+Ketidakpuasan	NN
+kampanye	NN
+mendorong	VB
+penggantian	NN
+tanggal	VB,NN
+menyerbu	VB
+tanggal	VB,NN
+kewalahan	
+menghadapi	VB
+taktik	NN
+blitzkrieg	
+hari	NN
+Jalur	NN
+dipertahankan	VB
+pasukan	NN
+diakali	VB
+bergerak	VB
+secara	JJ
+mengapit	VB
+melintasi	VB
+hutan	NN
+lebat	JJ
+disalahartikan	
+perencana	NN
+perang	NN
+penghalang	NN
+alami	VB,JJ
+kendaraan	NN
+lapis	VB,NN
+baja	
+Tentara	NN
+terpaksa	VB
+keluar	VB
+melalui	
+meninggalkan	VB
+peralatan	NN
+beratnya	JJ
+awal	NN
+Disini	VB
+memerintahkan	VB
+menyerang	VB
+tentara	NN
+terkepung	VB
+mengakibatkan	VB
+tentara	NN
+berhasil	JJ
+mengevakuasi	VB
+diri	VB,NN
+menuju	VB
+daratan	NN
+hal	NN
+dianggap	VB
+blunder	
+Tanggal	VB,NN
+menyerbu	VB
+menyatakan	VB
+perang	NN
+menyerah	VB
+langsung	JJ
+dibelah	VB
+menjadi	VB
+zona	NN
+pendudukan	NN
+sebuah	
+negara	NN
+sisa	NN
+diduduki	VB
+dipimpin	VB
+tanggal	VB,NN
+menyerang	VB
+armada	NN
+mencegah	VB
+pengambil	NN
+alihan	NN
+prancis	NN
+Bulan	NN
+hari-hari	NN
+memaksa	VB
+aneksasi	
+menganeksasi	
+wilayah	NN
+dipertentangkan	VB
+Sementara itu	
+kesesuaian	NN
+politik	NN
+ekonomi	VB,NN
+perlahan	
+buntu	NN
+negara	NN
+mulai	VB
+bersiap	VB
+perang	NN
+dinetralkan	VB
+memulai	VB
+kampanye	NN
+superioritas	NN
+(Pertempuran	
+mempersiapkan	VB
+sebuah	
+invasi	NN
+Awalnya	NN
+menargetkan	VB
+industri	NN
+(RAF).	
+serangkaian	
+pengeboman	
+dirancang	VB
+membuat	VB
+murka	VB
+memerintahkan	VB
+mengebom	
+menjadi	VB
+blunder	
+Kampanye	NN
+gagal	JJ
+rencana	NN
+invasi	NN
+dibatalkan	VB
+bulan	NN
+Menggunakan	VB
+pelabuhan-pelabuhan	NN
+dicaplok	VB
+menikmati	VB
+kesuksesan	NN
+melawan	VB
+memakai	VB
+kapal-U	NN
+menyerang	VB
+kapal-kapal	NN
+memulai	VB
+operasinya	NN
+memulai	VB
+pengepungan	NN
+bulan	NN
+menguasai	VB
+bulan	NN
+menerobos	VB
+wilayah	NN
+bulan	NN
+meningkatkan	VB
+pemblokirannya	NN
+bulan	NN
+merebut	VB
+pangkalan	NN
+wilayah	NN
+utara	NN
+terisolasi	VB

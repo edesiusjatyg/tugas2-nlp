@@ -1,0 +1,3623 @@
+﻿Perang	X
+Dunia	NN
+II	NNP
+atau	CC
+Perang	NNP
+Dunia	NNP
+Kedua	NNP
+,	Z
+sering	RB
+disingkat	VB
+menjadi	VB
+PDII	NNP
+atau	CC
+PD2	NNP
+,	Z
+
+adalah	VB
+sebuah	X
+perang	NN
+global	X
+yang	SC
+berlangsung	VB
+mulai	VB
+tahun	NN
+1939	CD
+sampai	IN 
+1945	CD
+.	Z
+
+
+
+Perang	NN
+ini	PR
+melibatkan	VB
+puluhan	CD
+negara	NN
+di	IN
+seluruh	CD
+penjuru	NN
+dunia	NN
+-	SYM,Z 
+termasuk	X
+semua	CD
+kekuatan	NN
+besar-yang	JJ
+pada	IN
+akhirnya	RB
+membentuk	VB
+dua	CD
+aliansi	NN
+militer	NN
+yang	SC
+saling	RB
+bertentangan	VB
+:	SYM,Z 
+Sekutu	NNP
+dan	CC
+Poros	NNP
+.	Z
+
+
+Perang	NN
+ini	PR
+merupakan	VB
+perang	NN
+terluas	JJ
+dalam	IN 
+sejarah	NN
+yang	SC
+melibatkan	VB
+lebih	RB
+dari	IN
+100	CD
+juta	CD
+orang	NN 
+di	IN
+berbagai	CD
+pasukan	NN
+militer	NN
+.	Z
+
+
+Dalam	IN 
+keadaan	NN
+
+"	Z
+
+perang total	NN
+
+"	Z
+,	Z
+negara-negara	NN
+besar	JJ
+memaksimalkan	VB
+seluruh	CD
+kemampuan	NN
+ekonomi	NN,VB 
+,	Z
+industri	NN
+,	Z
+dan	CC
+pengetahuan	NN
+ilmiah	JJ
+nya	PRP
+untuk	SC,IN 
+keperluan	NN
+perang	NN
+,	Z
+sehingga	SC
+menghapus	VB
+perbedaan	NN
+antara	X
+sumber daya	NN
+sipil	JJ
+dan	CC
+militer	NN
+.	Z
+
+
+Ditandai	VB
+oleh	IN
+sejumlah	CD
+peristiwa	NN
+penting	JJ
+yang	SC
+melibatkan	VB
+kematian	NN
+massal	NN
+warga	NN
+sipil	JJ
+,	Z
+termasuk	X
+Holokaus	NNP
+dan	CC
+pemakaian	NN
+senjata	NN
+destruktif	X
+dalam	IN 
+peperangan	X
+,	Z
+perang	NN
+ini	PR
+memakan	VB
+korban	NN
+jiwa	NN
+sebanyak	CD
+50	CD
+juta	CD
+sampai	SC,IN 
+70	CD
+juta	CD
+jiwa	NN
+.	Z
+
+
+Jumlah	NN
+kematian	NN
+ini	PR
+menjadikan	VB
+Perang	NNP
+Dunia	NNP
+II	NNP
+konflik	NN
+paling	RB
+mematikan	VB
+sepanjang	X
+sejarah	NN
+umat manusia	NN
+.	Z
+
+
+Banyak	CD
+ahli	NN
+berpendapat	VB
+bahwa	SC
+Perang	NNP
+Dunia	NNP
+2	CD
+dimulai	VB
+saat	SC,NN 
+invasi	NN
+Kerajaan	NNP
+Italia	NNP
+menuju	VB
+Kerajaan	NNP
+Ethiopia	NNP
+pada	IN
+tanggal	NN,VB 
+3	CD
+Oktober	NNP
+1935	CD
+dan	CC
+berakhir	VB
+dengan	SC,IN 
+kapitulasi	X
+Kerajaan	NNP
+Ethiopia	NNP
+pada	IN
+tanggal	NN,VB 
+5	CD
+Mei	NNP
+1936	CD
+.	Z
+
+
+
+Ada	JJ
+juga	RB
+yang	SC
+berpendapat	VB
+bahwa	SC
+Perang	NNP
+Dunia	NNP
+2	CD
+dimulai	VB
+dengan	SC,IN 
+Perang	NNP
+Sino-Jepang	NNP
+Ke-2	NNP
+,	Z
+
+dengan	SC,IN 
+tujuan	NN
+mendapatkan	VB
+lebih	RB
+banyak	CD
+pengaruh	NN
+di	IN
+kawasan	NN
+asia	NNP
+dan	CC
+mendapatkan	VB
+SDA	NNP
+Tiongkok	NNP
+.	Z
+
+
+Akan tetapi	NN
+,	Z
+perang	NN
+dunia	NN
+secara	JJ
+umum	JJ
+pecah	JJ,VB 
+pada	IN
+tanggal	NN,VB 
+1	CD
+September	NNP
+1939	CD
+dengan	SC,IN 
+invasi	NN
+ke	IN
+Polandia	NNP
+oleh	IN
+Jerman	NNP
+yang	SC
+diikuti	VB
+serangkaian	X
+pernyataan	NN
+perang	NN
+terhadap	IN
+Jerman	NNP
+oleh	IN
+Prancis	NNP
+dan	CC
+Britania	NNP
+Raya	NNP
+pada	IN
+tanggal	NN,VB 
+3	CD
+September	NNP
+1939	CD
+.	Z
+
+
+
+Sejak	SC,IN 
+akhir	NN
+tahun	NN
+1939	CD
+hingga	SC,IN 
+awal	NN
+1941	CD
+,	Z
+
+dalam	IN 
+serangkaian	X
+kampanye	NN
+dan	CC
+perjanjian	NN
+,	Z
+Jerman	NNP
+membentuk	VB
+aliansi	NN
+Poros	NNP
+bersama	VB
+Italia	NNP
+,	Z
+menguasai	VB
+atau	CC
+menaklukkan	VB
+sebagian besar	NN
+benua	NN
+Eropa	NNP
+.	Z
+
+
+Setelah	SC
+Pakta	NNP
+Molotov-Ribbentrop	NNP
+,	Z
+Jerman	NNP
+dan	CC
+Uni	NNP
+Soviet	NNP
+berpisah	VB
+dan	CC
+menganeksasi	X
+wilayah	NN
+negara-negara	NN
+tetangga	NN
+nya	PRP
+sendiri	JJ
+di	IN
+Eropa	NNP
+,	Z
+termasuk	X
+Polandia	NNP
+.	Z
+
+
+Britania	NNP
+Raya	NNP
+,	Z
+dengan	SC,IN 
+imperium	X
+dan	CC
+Persemakmurannya	NNP
+,	Z
+menjadi	VB
+satu-satunya	JJ
+kekuatan	NN
+besar	JJ
+Sekutu	NNP
+yang	SC
+terus	RB
+berperang	VB
+melawan	VB
+blok	NN
+Poros	NNP
+,	Z
+dengan	SC 
+mengadakan	VB
+pertempuran	NN
+di	IN
+Afrika	NNP
+Utara	NNP
+dan	CC
+Pertempuran	NNP
+Atlantik	NNP
+.	Z
+
+
+Bulan	NN
+Juni	NNP
+1941	CD
+,	Z
+
+Poros	NNP
+Eropa	NNP
+melancarkan	VB
+invasi	NN
+terhadap	IN
+Uni	NNP
+Soviet	NNP
+yang	SC
+menandakan	VB
+terbuka	JJ,VB 
+nya	PRP
+invasi	NN
+darat	NN
+terbesar	JJ
+sepanjang	X
+sejarah	NN
+,	Z
+yang	SC
+melibatkan	VB
+sebagian besar	NN
+pasukan	NN
+militer	NN
+Poros	NNP
+sampai	SC,IN 
+akhir	NN
+perang	NN
+.	Z
+
+
+Pada	IN
+bulan	NN
+Desember	NNP
+1941	CD
+,	Z
+
+Jepang	NNP
+bergabung	VB
+dengan	SC,IN 
+blok	NN
+Poros	NNP
+,	Z
+menyerang	VB
+Amerika	NNP
+Serikat	NNP
+dan	CC
+teritori	NN
+Eropa	NNP
+di	IN
+Samudra	NNP
+Pasifik	NNP
+,	Z
+dan	CC
+dengan	SC,IN 
+cepat	JJ
+menguasai	VB
+sebagian besar	NN
+Pasifik	NNP
+Barat	NNP
+.	Z
+
+
+Serbuan	NN
+Poros	NNP
+berhenti	VB
+pada	IN
+tahun	NN
+1942	CD
+,	Z
+
+setelah	SC
+Jepang	NNP
+kalah	JJ
+dalam	IN 
+berbagai	CD
+pertempuran	NN
+laut	NN
+seperti	SC,IN 
+Pertempuran	NNP
+Midway	NNP
+serta	CC 
+mengalami	VB
+kemunduran	NN
+di	IN
+front	X
+China	NNP
+.	Z
+
+
+Tentara	NN
+Poros	NNP
+Eropa	NNP
+dikalahkan	VB
+di	IN
+Afrika	NNP
+Utara	NNP
+,	Z
+Normandy	NNP
+,	Z
+dan	CC
+Stalingrad	NNP
+.	Z
+
+
+Pada	IN
+tahun	NN
+1943	CD
+,	Z
+
+melalui	X
+serangkaian	X
+kekalahan	NN
+Jerman	NNP
+di	IN
+Eropa	NNP
+Timur	NNP
+,	Z
+invasi	NN
+Sekutu	NNP
+ke	IN
+Italia	NNP
+,	Z
+dan	CC
+kemenangan	NN
+Amerika	NNP
+Serikat	NNP
+di	IN
+Pasifik	NNP
+,	Z
+Poros	NNP
+kehilangan	NN
+inisiatif	NN
+mereka	PRP
+dan	CC
+mundur	VB
+secara	JJ
+strategis	JJ
+di	IN
+semua	CD
+front	X
+.	Z
+
+
+Tahun	NN
+1944	CD
+,	Z
+
+pihak	NN
+Sekutu	NNP
+menyerbu	VB
+Prancis	NNP
+,	Z
+sementara	X
+Uni	NNP
+Soviet	NNP
+merebut	VB
+kembali	VB
+semua	CD
+teritori	NN
+yang	SC
+pernah	MD
+dicaplok	VB
+di	IN
+Eropa	NNP
+Timur	NNP
+dan	CC
+menyerbu	VB
+Jerman	NNP
+beserta	X
+sekutu	NN
+nya	PRP
+.	Z
+
+
+Perang	NN
+di	IN
+Eropa	NNP
+berakhir	VB
+dengan	SC,IN 
+pendudukan	NN
+Berlin	NNP
+oleh	IN
+tentara	NN
+Soviet	NNP
+dan	CC
+Polandia	NNP
+serta	IN 
+penyerahan	NN
+tanpa	SC,IN 
+syarat	NN
+Jerman	NNP
+pada	IN
+tanggal	NN,VB 
+8	CD
+Mei	NNP
+1945	CD
+.	Z
+
+
+
+Sepanjang	NNP
+1944	CD
+dan	CC
+1945	CD
+,	Z
+
+Amerika	NNP
+Serikat	NNP
+mengalahkan	VB
+Angkatan Laut	NN
+Jepang	NNP
+dan	CC
+menduduki	VB
+beberapa	CD
+pulau	NN
+di	IN
+Pasifik	NNP
+Barat	NNP
+,	Z
+menjatuhkan	VB
+bom atom	NN
+di	IN
+negara	NN
+itu	PR
+menjelang	X
+invasi	NN
+ke	IN
+Kepulauan	NNP
+Jepang	NNP
+.	Z
+
+
+Uni	NN
+Soviet	NNP
+kemudian	CC,NN 
+mengikuti	VB
+dengan	SC 
+menyatakan	VB
+perang	NN
+terhadap	IN
+Jepang	NNP
+dan	CC
+menyerbu	VB
+Manchuria	NNP
+.	Z
+
+
+Kekaisaran	NN
+Jepang	NNP
+menyerah	VB
+pada	IN
+tanggal	NN,VB 
+15	CD
+Agustus	NNP
+1945	CD
+,	Z
+
+sehingga	SC
+mengakhiri	VB
+perang	NN
+di	IN
+Asia	NNP
+dan	CC
+memperkuat	VB
+kemenangan	NN
+total	NN
+Sekutu	NNP
+atas	IN 
+Poros	NNP
+.	Z
+
+
+Perang	NN
+Dunia	NNP
+II	NNP
+mengubah	VB
+haluan politik	NN
+dan	CC
+struktur sosial	NN
+dunia	NN
+.	Z
+
+
+Perserikatan	NN
+Bangsa-Bangsa	NNP
+(PBB)	X
+didirikan	VB
+untuk	SC 
+memperkuat	VB
+kerja sama	NN
+internasional	JJ
+dan	CC
+mencegah	VB
+konflik-konflik	NN
+yang	SC
+akan	IN,MD 
+datang	VB
+.	Z
+
+
+Para	DT
+kekuatan	NN
+besar	JJ
+yang	SC
+merupakan	VB
+pemenang	NN
+perang-Amerika	NN
+Serikat	NNP
+,	Z
+Uni	NNP
+Soviet	NNP
+,	Z
+Tiongkok	NNP
+,	Z
+Britania	NNP
+Raya	NNP
+,	Z
+dan	CC
+Prancis-menjadi	NNP
+anggota	NN
+tetap	RB,JJ,VB 
+Dewan Keamanan	NN
+Perserikatan	NNP
+Bangsa-Bangsa	NNP
+.	Z
+
+
+Uni	NN
+Soviet	NNP
+dan	CC
+Amerika	NNP
+Serikat	NNP
+muncul	VB
+sebagai	IN
+kekuatan	NN
+super	X
+yang	SC
+saling	RB
+bersaing	VB
+dan	CC
+mendirikan	VB
+panggung	NN
+Perang Dingin	NN
+yang	SC
+kelak	X
+bertahan	VB
+selama	JJ
+46	CD
+tahun	NN
+selanjutnya	RB
+.	Z
+
+
+Sementara itu	NNP
+,	Z
+pengaruh	NN
+kekuatan-kekuatan	NN
+besar	JJ
+Eropa	NNP
+mulai	VB
+melemah	VB
+,	Z
+serta	CC 
+dekolonisasi	X
+Asia	NNP
+dan	CC
+Afrika	NNP
+dimulai	VB
+.	Z
+
+
+Kebanyakan	NN
+negara	NN
+yang	SC
+industri	NN
+nya	PRP
+terkena	VB
+dampak	NN
+buruk	JJ
+mulai	VB
+menjalani	VB
+pemulihan	NN
+ekonomi	NN,VB 
+.	Z
+
+
+Integrasi	NN
+politik	NN
+,	Z
+khusus	JJ
+nya	PRP
+di	IN
+Eropa	NNP
+,	Z
+muncul	VB
+sebagai	IN
+upaya	NN
+untuk	SC 
+menstabilkan	VB
+hubungan	NN
+pascaperang	JJ,NN 
+.	Z
+
+
+Awal	NN
+terjadi	VB
+nya	PRP
+perang	NN
+umum	JJ
+nya	PRP
+disetujui	VB
+pada	IN
+tanggal	NN,VB 
+1	CD
+September	NNP
+1939	CD
+,	Z
+
+dimulai	VB
+dengan	SC,IN 
+invasi	NN
+Jerman	NNP
+ke	IN
+Polandia	NNP
+;	Z
+Britania	NNP
+dan	CC
+Prancis	NNP
+menyatakan	VB
+perang	NN
+terhadap	IN
+Jerman	NNP
+dua	CD
+hari kemudian	NN
+.	Z
+
+
+Tanggal	NN,VB 
+lain	JJ
+mengenai	IN,VB 
+awal	NN
+perang	NN
+ini	PR
+adalah	VB
+dimulai	VB
+nya	PRP
+Perang	NNP
+Tiongkok-Jepang	NNP
+Kedua	NNP
+pada	IN
+7	CD
+Juli	NNP
+1937	CD
+.	Z
+
+
+
+Lain	JJ
+nya	PRP
+mengikuti	VB
+sejarawan	X
+Britania	NNP
+Raya	NNP
+A	NNP
+.	Z
+
+
+J	NNP
+.	Z
+
+
+P	NNP
+.	Z
+
+
+Taylor	NNP
+,	Z
+yang	SC
+percaya	VB
+bahwa	SC
+Perang	NNP
+Tiongkok-Jepang	NNP
+dan	CC
+perang	NN
+di	IN
+Eropa	NNP
+beserta	X
+koloni	NN
+nya	PRP
+terjadi	VB
+bersamaan	VB
+dan	CC
+dua	CD
+perang	NN
+ini	PR
+bergabung	VB
+pada	IN
+tahun	NN
+1941	CD
+.	Z
+
+
+
+Artikel	NN
+ini	PR
+memakai	VB
+penanggalan	NN
+konvesional	X
+.	Z
+
+
+Tanggal-tanggal	NN,VB 
+awal	NN
+lain	JJ
+nya	PRP
+yang	SC
+sering	RB
+dipakai	VB
+untuk	SC,IN 
+Perang	NNP
+Dunia	NNP
+II	NNP
+juga	RB
+meliputi	VB
+invasi	NN
+Italia	NNP
+ke	IN
+Abisinia	NNP
+pada	IN
+tanggal	NN,VB 
+3	CD
+Oktober	NNP
+1935	CD
+.	Z
+
+
+
+Sejarawan	NNP
+Britania	NNP
+Raya	NNP
+Antony	NNP
+Beevor	NNP
+memandang	VB
+awal	NN
+Perang	NNP
+Dunia	NNP
+Kedua	NNP
+terjadi	VB
+saat	SC,NN 
+Jepang	NNP
+menyerbu	VB
+Manchuria	NNP
+bulan	NN
+Agustus	NNP
+1939	CD
+.	Z
+
+
+
+Tanggal	NN,VB 
+pasti	JJ
+akhir	NN
+perang	NN
+juga	RB
+tidak	NEG
+disetujui	VB
+secara	JJ
+universal	X
+.	Z
+
+
+Dari	IN
+dulu	X
+disebutkan	VB
+bahwa	SC
+perang	NN
+berakhir	VB
+saat	SC,NN 
+gencatan senjata	NN
+14	CD
+Agustus	NNP
+1945	CD
+(V-J	X
+Day),	NNP
+alih-alih	VB
+penyerahan	NN
+diri	NN,VB 
+resmi	JJ
+Jepang	NNP
+(2	CD
+September	NNP
+1945);	CD
+di	IN
+sejumlah	CD
+teks	NN
+sejarah	NN
+Eropa	NNP
+,	Z
+perang	NN
+ini	PR
+berakhir	VB
+pada	IN
+V-E	NNP
+Day	NNP
+(8	CD
+Mei	NNP
+1945).	CD
+
+Meski	SC
+begitu	SC,PR,RB 
+,	Z
+Perjanjian	NNP
+Damai	NNP
+dengan	SC,IN 
+Jepang	NNP
+baru	JJ,NN,MD 
+ditandatangani	VB
+pada	IN
+tahun	NN
+1951	CD
+,	Z
+
+dan	CC
+dengan	SC,IN 
+Jerman	NNP
+pada	IN
+tahun	NN
+1990	CD
+.	Z
+
+
+
+Perang	NN
+Dunia	NNP
+I	NNP
+membuat	VB
+perubahan	NN
+besar	JJ
+pada	IN
+peta politik	NN
+,	Z
+dengan	SC,IN 
+kekalahan	NN
+Blok	NNP
+Sentral	NNP
+,	Z
+termasuk	X
+Austria-Hungaria	NNP
+,	Z
+Kekaisaran	NNP
+Jerman	NNP
+,	Z
+Kerajaan	NNP
+Bulgaria	NNP
+,	Z
+dan	CC
+Kesultanan	NNP
+Utsmaniyah	NNP
+;	Z
+dan	CC
+perebutan	NN
+kekuasaan	NN
+oleh	IN
+Bolshevik	NNP
+di	IN
+Rusia	NNP
+pada	IN
+tahun	NN
+1917	CD
+.	Z
+
+
+
+Sementara itu	NNP
+,	Z
+negara-negara	NN
+Sekutu	NNP
+yang	SC
+menang	JJ,VB 
+seperti	SC,IN 
+Prancis	NNP
+,	Z
+Belgia	NNP
+,	Z
+Italia	NNP
+,	Z
+Yunani	NNP
+,	Z
+dan	CC
+Rumania	NNP
+memperoleh wilayah	VB
+baru	JJ,NN,MD 
+,	Z
+serta	IN 
+negara-negara	NN
+baru	JJ,NN,MD 
+tercipta	VB
+dari	IN
+runtuh	JJ,VB 
+nya	PRP
+Austria-Hungaria	NNP
+,	Z
+Kekaisaran	NNP
+Rusia	NNP
+,	Z
+dan	CC
+Kesultanan	NNP
+Utsmaniyah	NNP
+.	Z
+
+
+Meski	SC
+muncul	VB
+gerakan	NN,VB 
+pasifis	X
+setelah	SC
+Perang	NNP
+Dunia	NNP
+I	NNP
+,	Z
+kekalahan	NN
+ini	PR
+membuat	VB
+nasionalisme	X
+iredentisme	X
+dan	CC
+revanchism	X
+berkembang	VB
+di	IN
+sejumlah	CD
+negara besar	NN
+Eropa	NNP
+.	Z
+
+
+Iredentisme	NNP
+dan	CC
+revanchism	X
+punya	VB
+pengaruh	NN
+kuat	JJ
+di	IN
+Jerman	NNP
+karena	SC,IN 
+kehilangan	NN
+teritori	NN
+,	Z
+koloni	NN
+,	Z
+dan	CC
+keuangan	NN
+yang	SC
+besar	JJ
+akibat	NN
+Perjanjian	NNP
+Versailles	NNP
+.	Z
+
+
+Menurut	NNP
+perjanjian	NN
+ini	PR
+,	Z
+Jerman	NNP
+kehilangan	NN
+13	CD
+persen	NN,CD 
+wilayah	NN
+dalam	IN 
+negeri	NN
+nya	PRP
+dan	CC
+seluruh	CD
+koloni	NN
+nya	PRP
+di	IN
+luar negeri	NN
+,	Z
+sementara itu	X
+Jerman	NNP
+yang	SC
+dilarang	VB
+menganeksasi	X
+negara	NN
+lain	JJ
+,	Z
+harus	MD
+membayar	VB
+biaya	NN
+perbaikan	NN
+perang	NN
+yang	SC
+besar	JJ
+,	Z
+serta	CC 
+membatasi	VB
+ukuran	NN
+dan	CC
+kemampuan	NN
+angkatan bersenjata	NN
+negara	NN
+nya	PRP
+hingga	SC 
+menjadi	VB
+100.000	CD
+tentara	NN
+tanpa	SC,IN 
+angkatan udara	NN
+juga	RB
+ukuran	NN
+tonase	X
+kapal perang	NN
+maksimal	JJ
+⅓	X
+dari	IN
+kapal	NN
+terbesar	JJ
+Britania	NNP
+Raya	NNP
+.	Z
+
+
+Kekaisaran	NN
+Jerman	NNP
+bubar	VB
+melalui	X
+Revolusi	NNP
+Jerman	NNP
+1918-1919	CD
+dan	CC
+kemenangan	NN
+tentara	NN
+merah	JJ
+.	Z
+
+
+Jerman	NNP
+lalu	VB/CC 
+berubah	VB
+menjadi	VB
+sebuah	X
+pemerintahan	NN
+demokratis	NN
+yang	SC
+kemudian	CC,NN 
+dikenal	VB
+dengan	SC,IN 
+nama	NN
+Republik	NNP
+Weimar	NNP
+.	Z
+
+
+Periode	NN
+antarperang	NN
+melibatkan	VB
+kerusuhan	NN
+antara	X
+pendukung	NN
+republik	X
+baru	JJ,NN,MD 
+ini	PR
+dan	CC
+penentang	NN
+garis keras	NN
+atas	IN 
+sayap	NN
+kanan	JJ
+maupun	CC
+kiri	JJ
+.	Z
+
+
+Walaupun	SC
+Italia	NNP
+selaku	X
+sekutu	NN
+Entente	NNP
+berhasil	JJ
+merebut	VB
+sejumlah	CD
+wilayah	NN
+,	Z
+kaum	NN
+nasionalis	X
+Italia	NNP
+marah	JJ
+mengetahui	VB
+janji-janji	NN
+Britania	NNP
+dan	CC
+Prancis	NNP
+yang	SC
+menjamin	VB
+masuk	VB
+nya	PRP
+Italia	NNP
+ke	IN
+kancah	X
+perang	NN
+tidak	NEG
+dipenuhi	VB
+dengan	SC,IN 
+penyelesaian	NN
+damai	JJ
+.	Z
+
+
+Sejak	SC,IN 
+1922	CD
+sampai	SC,IN 
+1925	CD
+,	Z
+
+gerakan	NN,VB 
+Fasis	NNP
+pimpinan	NN
+Benito	NNP
+Mussolini	NNP
+berkuasa	VB
+di	IN
+Italia	NNP
+dengan	SC,IN 
+agenda	NN
+nasionalis	X
+,	Z
+totalitarian	X
+,	Z
+dan	CC
+kolaborasionis	X
+kelas	NN
+yang	SC
+menghapus	VB
+demokrasi perwakilan	NN
+,	Z
+penindasan	NN
+sosialis	JJ
+,	Z
+kaum	NN
+sayap	NN
+kiri	JJ
+,	Z
+dan	CC
+liberal	NN
+,	Z
+serta	CC 
+mengejar	VB
+kebijakan	NN
+luar negeri	NN
+agresif	JJ
+yang	SC
+berusaha	VB
+membawa	VB
+Italia	NNP
+sebagai	IN
+kekuatan	NN
+dunia-	NN
+"	Z
+
+Kekaisaran	NN
+Romawi	NNP
+Baru	NNP
+
+"	Z
+.	Z
+
+
+Di	IN
+Jerman	NNP
+,	Z
+Partai	NNP
+Nazi	NNP
+yang	SC
+dipimpin	VB
+Adolf	NNP
+Hitler	NNP
+berupaya	VB
+mendirikan	VB
+pemerintahan	NN
+fasis	X
+di	IN
+Jerman	NNP
+.	Z
+
+
+Setelah	SC
+Depresi	NNP
+Besar	NNP
+dimulai	VB
+,	Z
+dukungan	NN
+dalam negeri	JJ
+untuk	SC,IN 
+Nazi	NNP
+meningkat	VB
+,	Z
+pada	IN
+tahun	NN
+1933	CD
+,	Z
+
+Hitler	NNP
+ditunjuk	VB
+sebagai	IN
+Kanselir	NNP
+Jerman	NNP
+.	Z
+
+
+Setelah	SC
+peristiwa	NN
+kebakaran	NN
+Reichstag	NNP
+,	Z
+Hitler	NNP
+menciptakan	VB
+negara	NN
+satu	CD
+partai	NN
+totalitarian	X
+yang	SC
+dipimpin	VB
+Partai	NNP
+Nazi	NNP
+.	Z
+
+
+Partai	NN
+Kuomintang	NNP
+(KMT)	X
+di	IN
+Tiongkok	NNP
+melancarkan	VB
+kampanye	NN
+penyatuan	NN
+melawan	VB
+panglima	NN
+perang	NN
+regional	JJ
+dan	CC
+secara	JJ
+nominal	X
+berhasil	JJ
+menyatukan	VB
+Tiongkok	NNP
+pada	IN
+pertengahan	NN
+1920-an	CD
+,	Z
+tetapi	CC
+langsung	JJ
+terlibat	VB
+dalam	IN 
+perang saudara	NN
+melawan	VB
+bekas	JJ
+sekutu	NN
+nya	PRP
+yang	SC
+komunis	NN
+.	Z
+
+
+Pada	IN
+tahun	NN
+1931	CD
+,	Z
+
+Kekaisaran	NN
+Jepang	NNP
+yang	SC
+semakin	RB
+militeristik	X
+,	Z
+sudah	MD
+lama	JJ
+berusaha	VB
+memengaruhi	X
+Tiongkok	NNP
+sebagai	IN
+tahap	NN
+pertama	OD
+dari	IN
+apa	WH 
+yang	SC
+disebut	VB
+pemerintah	NN
+nya	PRP
+sebagai	IN
+hak	NN
+untuk	SC 
+menguasai	VB
+Asia	NNP
+,	Z
+memakai	VB
+Insiden	NNP
+Mukden	NNP
+sebagai	IN
+alasan	NN
+melancarkan	VB
+invasi	NN
+ke	IN
+Manchuria	NNP
+dan	CC
+mendirikan	VB
+negara boneka	NN
+Manchukuo	NNP
+.	Z
+
+
+Terlalu	NNP
+lemah	JJ
+melawan	VB
+Jepang	NNP
+,	Z
+Tiongkok	NNP
+meminta	VB
+bantuan	NN
+Liga	NNP
+Bangsa-Bangsa	NNP
+.	Z
+
+
+Jepang	NNP
+menarik diri	VB
+dari	IN
+Liga	NNP
+Bangsa-Bangsa	NNP
+setelah	SC
+dikecam	VB
+atas	IN 
+tindakan	NN
+nya	PRP
+terhadap	IN
+Manchuria	NNP
+.	Z
+
+
+Kedua	CD 
+negara	NN
+ini	PR
+kemudian	CC,NN 
+bertempur	VB
+di	IN
+Shanghai	NNP
+,	Z
+Rehe	NNP
+,	Z
+dan	CC
+Hebei	NNP
+sampai	SC,IN 
+Gencatan Senjata	NN
+Tanggu	NNP
+ditandatangani	VB
+tahun	NN
+1933	CD
+.	Z
+
+
+
+Setelah	SC
+itu	PR
+,	Z
+pasukan	NN
+sukarelawan	NN
+Tiongkok	NNP
+melanjutkan	VB
+pemberontakan	NN
+terhadap	IN
+agresi	NN
+Jepang	NNP
+di	IN
+Manchuria	NNP
+,	Z
+Chahar	NNP
+,	Z
+dan	CC
+Suiyuan	NNP
+.	Z
+
+
+Adolf	NNP
+Hitler	NNP
+,	Z
+setelah	SC
+upaya	NN
+gagal	JJ
+menggulingkan	VB
+pemerintah	NN
+Jerman	NNP
+tahun	NN
+1923	CD
+,	Z
+
+menjadi	VB
+Kanselir	NNP
+Jerman	NNP
+pada	IN
+tahun	NN
+1933	CD
+.	Z
+
+
+
+Disebabkan	VB
+oleh	IN
+Partai	NNP
+Nazi	NNP
+yang	SC
+menjadi	VB
+partai	NN
+terbesar	JJ
+di	IN
+parlemen	NN
+saat	SC,NN 
+itu	PR
+.	Z
+
+
+Setelah	SC
+Presiden	NNP
+Hindenburg	NNP
+meninggal	VB
+,	Z
+ia	PRP
+mendeklarasikan	VB
+diri	NN,VB 
+sebagai	IN
+Fuhrer	NNP
+Jerman	NNP
+Nazi	NNP
+.	Z
+
+
+Ia	PRP
+menghapus	VB
+demokrasi	NN
+,	Z
+menciptakan	VB
+rezim	NN
+yang	SC
+mementingkan	VB
+chauvinisme	X
+,	Z
+lalu	VB/CC 
+segera	RB
+memulai	VB
+serangkaian	X
+program	NN
+pembangunan	NN
+kembali	VB
+ekonomi	NN,VB 
+Jerman	NNP
+yang	SC
+terpuruk	VB
+dan	CC
+kampanye	NN
+persenjataan	NN
+kembali	VB
+.	Z
+
+
+Sementara itu	NNP
+,	Z
+Prancis	NNP
+untuk	SC 
+melindungi	VB
+aliansi	NN
+nya	PRP
+,	Z
+memberikan	VB
+Italia	NNP
+kendali	NN
+atas	IN 
+Ethiopia	NNP
+yang	SC
+diinginkan	VB
+Italia	NNP
+sebagai	IN
+jajahan	NN
+kolonial	JJ
+nya	PRP
+.	Z
+
+
+Situasi	NN
+ini	PR
+memburuk	VB
+pada	IN
+awal	NN
+1935	CD
+ketika	SC
+Teritori	NNP
+Cekungan	NNP
+Saar	NNP
+dengan	SC,IN 
+sah	JJ
+bersatu	X
+kembali	VB
+setelah	SC
+Hitler	NNP
+memerintahkan	VB
+untuk	SC,IN 
+menganeksasinya	X
+ke	IN
+dalam	NN 
+teritori	NN
+Jerman	NNP
+Nazi	NNP
+.	Z
+
+
+Berharap	VB
+mencegah	VB
+Jerman	NNP
+,	Z
+Britania	NNP
+Raya	NNP
+,	Z
+Prancis	NNP
+,	Z
+dan	CC
+Italia	NNP
+membentuk	VB
+Front	NNP
+Stresa	NNP
+.	Z
+
+
+Uni	NN
+Soviet	NNP
+yang	SC
+khawatir	JJ
+akan	IN,MD 
+keinginan	NN
+Jerman	NNP
+mencaplok	VB
+wilayah	NN
+luas	JJ
+di	IN
+Eropa	NNP
+Timur	NNP
+,	Z
+membuat	VB
+perjanjian	NN
+bantuan	NN
+bersama	VB
+dengan	IN 
+Prancis	NNP
+.	Z
+
+
+Sebelum	SC
+diberlakukan	VB
+,	Z
+pakta	NN
+Prancis-Soviet	NNP
+ini	PR
+perlu	MD
+melewati	VB
+birokrasi	NN
+Liga	NNP
+Bangsa-Bangsa	NNP
+,	Z
+yang	SC
+pada	IN
+dasar	NN
+nya	PRP
+menjadikan	VB
+nya	PRP
+tidak	NEG
+berguna	VB
+.	Z
+
+
+Akan tetapi	NN
+,	Z
+pada	IN
+bulan	NN
+Juni	NNP
+1935	CD
+,	Z
+
+Britania	NNP
+Raya	NNP
+membuat	VB
+perjanjian	NN
+laut	NN
+independen	JJ
+dengan	SC,IN 
+Jerman	NNP
+,	Z
+sehingga	SC
+melonggarkkan	X
+batasan-batasan	NN
+sebelumnya	SC
+.	Z
+
+
+Amerika	NNP
+Serikat	NNP
+,	Z
+setelah	SC
+mempertimbangkan	VB
+peristiwa	NN
+yang	SC
+terjadi	VB
+di	IN
+Eropa	NNP
+dan	CC
+Asia	NNP
+,	Z
+mengesahkan	VB
+Undang-Undang	NNP
+Netralitas	NNP
+pada	IN
+bulan	NN
+Agustus	NNP
+.	Z
+
+
+Pada	IN
+bulan	NN
+Oktober	NNP
+,	Z
+Italia	NNP
+menginvasi	VB
+Ethiopia	NNP
+,	Z
+dan	CC
+Jerman	NNP
+adalah	VB
+satu-satunya	JJ
+negara besar	NN
+Eropa	NNP
+yang	SC
+mendukung	VB
+tindakan	NN
+tersebut	PR,VB 
+.	Z
+
+
+Italia	NNP
+langsung	JJ
+menarik	JJ,VB 
+keberatan	NN
+nya	PRP
+terhadap	IN
+tindakan	NN
+Jerman	NNP
+menganeksasi	X
+Austria	NNP
+.	Z
+
+
+Hitler	NNP
+menolak	VB
+Perjanjian	NNP
+Versailles	NNP
+dan	CC
+Locarno	NNP
+dengan	SC 
+melakukan	VB
+remiliterisasi	X
+Rhineland	NNP
+pada	IN
+bulan	NN
+Maret	NNP
+1936	CD
+.	Z
+
+
+
+Ia	PRP
+mendapat	VB
+sedikit	CD
+tanggapan	NN
+dari	IN
+kekuatan-kekuatan	NN
+Eropa	NNP
+lain	JJ
+nya	PRP
+.	Z
+
+
+Ketika	SC
+Perang Saudara	NN
+Spanyol	NNP
+pecah	JJ,VB 
+bulan	NN
+Juli	NNP
+,	Z
+Hitler	NNP
+dan	CC
+Mussolini	NNP
+mendukung	VB
+pasukan	NN
+Nasionalis	NNP
+yang	SC
+fasis	X
+dan	CC
+otoriter	JJ
+dalam	IN 
+perang saudara	NN
+mereka	PRP
+melawan	VB
+Republik	NNP
+Spanyol	NNP
+yang	SC
+didukung	VB
+Soviet	NNP
+.	Z
+
+
+Kedua	CD 
+pihak	NN
+memakai	VB
+konflik	NN
+ini	PR
+untuk	SC 
+menguji	VB
+senjata	NN
+dan	CC
+metode	NN
+peperangan	X
+baru	JJ,NN,MD 
+,	Z
+berakhir	VB
+dengan	SC,IN 
+kemenangan	NN
+Nasionalis	NNP
+pada	IN
+awal	NN
+1939	CD
+.	Z
+
+
+
+Bulan	NN
+Oktober	NNP
+1936	CD
+,	Z
+
+Jerman	NNP
+dan	CC
+Italia	NNP
+membentuk	VB
+Poros	NNP
+Roma-Berlin	NNP
+.	Z
+
+
+Sebulan	JJ
+kemudian	CC,NN 
+,	Z
+Jerman	NNP
+dan	CC
+Jepang	NNP
+menandatangani	VB
+Pakta	NNP
+Anti-Komintern	NNP
+,	Z
+tetapi	CC
+kelak	X
+diikuti	VB
+Italia	NNP
+pada	IN
+tahun	NN
+berikut	VB
+nya	PRP
+.	Z
+
+
+Di	IN
+Tiongkok	NNP
+,	Z
+setelah	SC
+Insiden	NNP
+Xi	NNP
+'	Z
+an	X
+,	Z
+pasukan	NN
+Kuomintang	NNP
+dan	CC
+Komunis	NNP
+menyetujui	VB
+gencatan senjata	NN
+untuk	SC 
+membentuk	VB
+front	X
+bersatu	X
+dan	CC
+bersama-sama	VB
+melawan	VB
+Jepang	NNP
+.	Z
+
+
+Perang	NN
+Italia-Abisinia	NNP
+Kedua	NNP
+adalah	VB
+perang kolonial	NN
+singkat	JJ
+mulai	VB
+bulan	NN
+Oktober	NNP
+1935	CD
+sampai	SC,IN 
+Mei	NNP
+1936	CD
+.	Z
+
+
+
+Perang	NN
+ini	PR
+terjadi	VB
+antara	X
+angkatan bersenjata	NN
+Kerajaan	NNP
+Italia	NNP
+(Regno	X
+d	X
+'	Z
+Italia)	NNP
+dan	CC
+angkatan bersenjata	NN
+Kekaisaran	NNP
+Ethiopia	NNP
+(juga	X
+disebut	VB
+Abisinia).	NNP
+
+Perang	NN
+ini	PR
+berakhir	VB
+dengan	SC,IN 
+pendudukan	NN
+militer	NN
+di	IN
+Ethiopia	NNP
+dan	CC
+aneksasinya	X
+ke	IN
+koloni	NN
+baru	JJ,NN,MD 
+Afrika	NNP
+Timur	NNP
+Italia	NNP
+(Africa	X
+Orientale	NNP
+Italiana	NNP
+,	Z
+atau	CC
+AOI);	NNP
+selain	CC 
+itu	PR
+,	Z
+perang	NN
+ini	PR
+membuka	VB
+kelemahan	NN
+Liga	NNP
+Bangsa-Bangsa	NNP
+sebagai	IN
+kekuatan	NN
+pelindung	NN
+perdamaian	NN
+.	Z
+
+
+Baik	JJ
+Italia	NNP
+dan	CC
+Ethiopia	NNP
+adalah	VB
+negara	NN
+anggota	NN
+,	Z
+tetapi	CC
+Liga	NNP
+ini	PR
+tidak	NEG
+berbuat	VB
+apa-apa	NN
+ketika	SC
+negara	NN
+pertama	OD
+jelas-jelas	JJ
+melanggar	VB
+Artikel	NNP
+X	NNP
+yang	SC
+dibuat	VB
+oleh	IN
+Liga	NNP
+ini	PR
+.	Z
+
+
+Jerman	NNP
+dan	CC
+Italia	NNP
+memberi	VB
+dukungan	NN
+kepada	IN
+para	DT
+pemberontak	NN
+Nasionalis	NNP
+yang	SC
+dipimpin	VB
+Jenderal	NNP
+Francisco	NNP
+Franco	NNP
+di	IN
+Spanyol	NNP
+.	Z
+
+
+Uni	NN
+Soviet	NNP
+mendukung	VB
+pemerintah	NN
+yang	SC
+sudah	MD
+berdiri	VB
+,	Z
+Republik	NNP
+Spanyol	NNP
+,	Z
+yang	SC
+memiliki	VB
+kecenderungan	NN
+sayap	NN
+kiri	JJ
+.	Z
+
+
+Baik	JJ
+Jerman	NNP
+dan	CC
+Uni	NNP
+Soviet	NNP
+memakai	VB
+perang	NN
+proksi	X
+ini	PR
+sebagai	IN
+kesempatan	NN
+menguji	VB
+senjata	NN
+dan	CC
+taktik	NN
+baru	JJ,NN,MD 
+mereka	PRP
+.	Z
+
+
+Pengeboman	NNP
+Guernica	NNP
+yang	SC
+disengaja	X
+oleh	IN
+Legiun	NNP
+Condor	NNP
+Jerman	NNP
+pada	IN
+April	NNP
+1937	CD
+berkontribusi	VB
+pada	IN
+kekhawatiran	NN
+bahwa	SC
+perang	NN
+besar	JJ
+selanjutnya	RB
+akan	IN,MD 
+melibatkan	VB
+serangan	NN
+bom	NN
+teror	NN
+besar-besaran	NN
+terhadap	IN
+warga	NN
+sipil	JJ
+.	Z
+
+
+Pada	IN
+bulan	NN
+Juli	NNP
+1937	CD
+,	Z
+
+Jepang	NNP
+mencaplok	VB
+bekas	JJ
+ibu kota	NN
+kekaisaran	NN
+Tiongkok	NNP
+Beijing	NNP
+setelah	SC
+memulai	VB
+Insiden	NNP
+Jembatan	NNP
+Marco	NNP
+Polo	NNP
+,	Z
+yang	SC
+menjadi	VB
+batu	NN
+pijakan	X
+kampanye	NN
+Jepang	NNP
+untuk	SC 
+menjajah	VB
+seluruh	CD
+wilayah	NN
+Tiongkok	NNP
+.	Z
+
+
+Uni	NN
+Soviet	NNP
+segera	RB
+menandatangani	VB
+pakta	NN
+non-agresi	NN
+dengan	SC,IN 
+Tiongkok	NNP
+untuk	SC 
+memberi	VB
+dukungan	NN
+material	NN
+yang	SC
+secara	JJ
+efektif	JJ
+mengakhiri	VB
+kerja sama	NN
+Tiongkok	NNP
+dengan	SC,IN 
+Jerman	NNP
+sebelumnya	SC
+.	Z
+
+
+Generalissimo	NNP
+Chiang	NNP
+Kai-shek	NNP
+mengerahkan	VB
+pasukan	NN
+terbaik	JJ
+nya	PRP
+untuk	SC 
+mempertahankan	VB
+Shanghai	NNP
+,	Z
+tetapi	CC
+setelah	SC
+tiga	CD
+bulan	NN
+bertempur	VB
+,	Z
+Shanghai	NNP
+jatuh	VB
+.	Z
+
+
+Jepang	NNP
+terus	RB
+menekan	VB
+pasukan	NN
+Tiongkok	NNP
+,	Z
+mencaplok	VB
+ibu kota	NN
+Nanking	NNP
+pada	IN
+Desember	NNP
+1937	CD
+dan	CC
+melakukan	VB
+Pembantaian	NNP
+Nanking	NNP
+.	Z
+
+
+Pada	IN
+bulan	NN
+Juni	NNP
+1938	CD
+,	Z
+
+pasukan	NN
+Tiongkok	NNP
+menghentikan	VB
+serbuan	NN
+Jepang	NNP
+dengan	SC 
+membanjiri	VB
+Sungai	NNP
+Kuning	NNP
+;	Z
+manuver	NN
+ini	PR
+memberikan	VB
+waktu	NN
+bagi	NN,IN,VB 
+Tiongkok	NNP
+untuk	SC 
+mempersiapkan	VB
+pertahanan	NN
+di	IN
+Wuhan	NNP
+,	Z
+tetapi	CC
+kota	NN
+ini	PR
+berhasil	JJ
+direbut	VB
+pada	IN
+bulan	NN
+Oktober	NNP
+.	Z
+
+
+Kemenangan	NN
+militer	NN
+Jepang	NNP
+gagal	JJ
+menghentikan	VB
+pemberontakan	NN
+Tiongkok	NNP
+yang	SC
+menjadi	VB
+tujuan	NN
+Jepang	NNP
+.	Z
+
+
+Pemerintahan	NN
+Tiongkok	NNP
+pindah	VB
+ke	IN
+pedalaman	X
+di	IN
+Chongqing	NNP
+dan	CC
+melanjutkan	VB
+perang	NN
+.	Z
+
+
+Pada	IN
+tanggal	NN,VB 
+29	CD
+Juli	NNP
+1938	CD
+,	Z
+
+Jepang	NNP
+menyerbu	VB
+Uni	NNP
+Soviet	NNP
+dan	CC
+kalah	JJ
+di	IN
+Pertempuran	NNP
+Danau	NNP
+Khasan	NNP
+.	Z
+
+
+Meski	SC
+pertempuran	NN
+tersebut	PR,VB 
+dimenangkan	VB
+Soviet	NNP
+,	Z
+Jepang	NNP
+menyebut	VB
+nya	PRP
+seri	JJ
+dan	CC
+buntu	NN
+,	Z
+dan	CC
+pada	IN
+tanggal	NN,VB 
+11	CD
+Mei	NNP
+1939	CD
+,	Z
+
+Jepang	NNP
+memutuskan	VB
+memindahkan	VB
+perbatasan	NN
+Jepang-Mongolia	NNP
+sampai	SC,IN 
+Sungai	NNP
+Khalkhin	NNP
+Gol	NNP
+melalui	X
+pemaksaan	NN
+.	Z
+
+
+Setelah	SC
+serangkaian	X
+keberhasilan	NN
+awal	NN
+,	Z
+serangan	NN
+Jepang	NNP
+di	IN
+Mongolia	NNP
+digagalkan	VB
+oleh	IN
+Pasukan	NNP
+Merah	NNP
+yang	SC
+menandakan	VB
+kekalahan	NN
+besar	JJ
+pertama	OD
+Angkatan Darat	NN
+Kwantung	NNP
+Jepang	NNP
+.	Z
+
+
+Pertempuran	NN
+ini	PR
+meyakinkan	VB
+sejumlah	CD
+faksi	NN
+pemerintahan	NN
+Jepang	NNP
+bahwa	SC
+mereka	PRP
+harus	MD
+fokus	NN
+berkonsiliasi	X
+dengan	SC,IN 
+pemerintah	NN
+Soviet	NNP
+demi	SC 
+menghindari	VB
+ikut	VB
+campur	VB
+Soviet	NNP
+dalam	IN 
+perang	NN
+melawan	VB
+Tiongkok	NNP
+dan	CC
+mengalihkan	VB
+perhatian	NN
+militer	NN
+mereka	PRP
+ke	IN
+selatan	NN
+,	Z
+yaitu	SC
+ke	IN
+jajahan	NN
+Amerika	NNP
+Serikat	NNP
+dan	CC
+Eropa	NNP
+di	IN
+Pasifik	NNP
+,	Z
+serta	CC 
+mencegah	VB
+penggulingan	NN
+pemimpin	NN
+militer	NN
+Soviet	NNP
+berpengalaman	VB
+seperti	SC,IN 
+Georgy	NNP
+Zhukov	NNP
+,	Z
+yang	SC
+kelak	X
+memainkan peran	VB
+penting	JJ
+dalam	IN 
+mempertahankan	VB
+Moskow	NNP
+.	Z
+
+
+Di	IN
+Eropa	NNP
+,	Z
+Jerman	NNP
+dan	CC
+Italia	NNP
+semakin	RB
+keras	JJ
+.	Z
+
+
+Pada	IN
+bulan	NN
+Maret	NNP
+1938	CD
+,	Z
+
+Jerman	NNP
+menganeksasi	X
+Austria	NNP
+,	Z
+lagi-lagi	RB
+mendapat	VB
+sedikit	CD
+perhatian	NN
+dari	IN
+kekuatan-kekuatan	NN
+Eropa	NNP
+lain	JJ
+nya	PRP
+.	Z
+
+
+Semakin	RB
+tertantang	VB
+,	Z
+Hitler	NNP
+mulai	VB
+menegaskan	VB
+klaim	NN
+Jerman	NNP
+atas	IN 
+Sudetenland	NNP
+,	Z
+wilayah	NN
+Cekoslowakia	NNP
+yang	SC
+didominasi	VB
+oleh	IN
+etnis	NN
+Jerman	NNP
+;	Z
+dan	CC
+Prancis	NNP
+dan	CC
+Britania	NNP
+segera	RB
+memberikan	VB
+wilayah	NN
+ini	PR
+ke	IN
+Jerman	NNP
+melalui	X
+Perjanjian	NNP
+Munich	NNP
+,	Z
+yang	SC
+dibuat	VB
+melawan	VB
+keinginan	NN
+pemerintah	NN
+Cekoslowakia	NNP
+,	Z
+dengan	SC,IN 
+imbalan	NN
+janji	NN
+tidak	NEG
+meminta	VB
+wilayah	NN
+lagi	MD,RB 
+.	Z
+
+
+Sesaat	JJ
+setelah	SC
+perjanjian	NN
+ini	PR
+,	Z
+Jerman	NNP
+dan	CC
+Italia	NNP
+memaksa	VB
+Cekoslowakia	NNP
+menyerahkan	VB
+wilayah	NN
+tambahan	NN
+ke	IN
+Hungaria	NNP
+dan	CC
+Polandia	NNP
+.	Z
+
+
+Pada	IN
+bulan	NN
+Maret	NNP
+1939	CD
+,	Z
+
+Jerman	NNP
+menyerbu	VB
+sisa	NN
+Cekoslowakia	NNP
+dan	CC
+membelah	VB
+nya	PRP
+menjadi	VB
+Protektorat	NNP
+Bohemia	NNP
+dan	CC
+Moravia	NNP
+Jerman	NNP
+dan	CC
+negara	NN
+klien	NN
+pro-Jerman	NN
+bernama	VB
+Republik	NNP
+Slovak	NNP
+.	Z
+
+
+Terkejut	VB
+,	Z
+ditambah	VB
+Hitler	NNP
+menuntut	VB
+Danzig	NNP
+,	Z
+Prancis	NNP
+dan	CC
+Britania	NNP
+Raya	NNP
+menjamin	VB
+dukungan	NN
+mereka	PRP
+terhadap	IN
+kemerdekaan	NN
+Polandia	NNP
+;	Z
+ketika	SC
+Italia	NNP
+menguasai	VB
+Albania	NNP
+pada	IN
+bulan	NN
+April	NNP
+1939	CD
+,	Z
+
+jaminan	NN
+yang	SC
+sama	JJ
+diberikan	VB
+untuk	SC,IN 
+Rumania	NNP
+dan	CC
+Yunani	NNP
+.	Z
+
+
+Tidak	NEG
+lama	JJ
+setelah	SC
+janji	NN
+Prancis-Britania	NNP
+kepada	IN
+Polandia	NNP
+,	Z
+Jerman	NNP
+dan	CC
+Italia	NNP
+meresmikan	VB
+aliansi	NN
+mereka	PRP
+sendiri	JJ
+melalui	X
+Pakta	NNP
+Baja	NNP
+.	Z
+
+
+Bulan	NN
+Agustus	NNP
+1939	CD
+,	Z
+
+Jerman	NNP
+dan	CC
+Uni	NNP
+Soviet	NNP
+menandatangani	VB
+Pakta	NNP
+Molotov-Ribbentrop	NNP
+,	Z
+sebuah	X
+perjanjian	NN
+non-agresi	NN
+dengan	SC,IN 
+satu	CD
+protokol	NN
+rahasia	NN
+.	Z
+
+
+Setiap	CD
+pihak	NN
+memberikan	VB
+hak	NN
+nya	PRP
+satu	CD
+sama	JJ
+lain	JJ
+,	Z
+
+"	Z
+
+andai	NN
+terjadi	VB
+penyusunan	NN
+wilayah	NN
+dan	CC
+politik	NN
+,	Z
+"	Z
+
+terhadap	IN
+
+"	Z
+
+cakupan	NN
+pengaruh	NN
+
+"	Z
+
+(antara	X
+Polandia	NNP
+dan	CC
+Lituania	NNP
+untuk	SC,IN 
+Jerman	NNP
+,	Z
+dan	CC
+Polandia	NNP
+timur	NN
+,	Z
+Finlandia	NNP
+,	Z
+Estonia	NNP
+,	Z
+Latvia	NNP
+,	Z
+dan	CC
+Bessarabia	NNP
+untuk	SC,IN 
+Uni	NNP
+Soviet).	NNP
+
+Pakta	NN
+ini	PR
+juga	RB
+memunculkan	VB
+pertanyaan	NN
+tentang	VB
+keberlangsungan	X
+kemerdekaan	NN
+Polandia	NNP
+.	Z
+
+
+Pada	IN
+tanggal	NN,VB 
+1	CD
+September	NNP
+1939	CD
+,	Z
+
+Jerman	NNP
+dan	CC
+Slowakia-negara	NNP
+klien	NN
+pada	IN
+tahun	NN
+1939-menyerang	CD
+Polandia	NNP
+.	Z
+
+
+Tanggal	NN,VB 
+3	CD
+September	NNP
+,	Z
+Prancis	NNP
+dan	CC
+Britania	NNP
+Raya	NNP
+,	Z
+diikuti	VB
+negara-negara	NN
+Persemakmuran	NNP
+,	Z
+menyatakan	VB
+perang	NN
+terhadap	IN
+Jerman	NNP
+,	Z
+tetapi	CC
+memberi	VB
+sedikit	CD
+dukungan	NN
+kepada	IN
+Polandia	NNP
+ketimbang	SC,IN 
+serangan	NN
+kecil	JJ
+Prancis	NNP
+ke	IN
+Saarland	NNP
+.	Z
+
+
+Britania	NNP
+dan	CC
+Prancis	NNP
+juga	RB
+mulai	VB
+memblokir	VB
+perairan	NN
+Jerman	NNP
+pada	IN
+tanggal	NN,VB 
+3	CD
+September	NNP
+untuk	SC 
+melemahkan	VB
+ekonomi	NN,VB 
+dan	CC
+upaya	NN
+perang	NN
+negara	NN
+ini	PR
+.	Z
+
+
+Tanggal	NN,VB 
+17	CD
+September	NNP
+,	Z
+setelah	SC
+menandatangani	VB
+gencatan senjata	NN
+dengan	SC,IN 
+Jepang	NNP
+,	Z
+Soviet	NNP
+juga	RB
+menyerbu	VB
+Polandia	NNP
+.	Z
+
+
+Wilayah	NN
+Polandia	NNP
+terbagi	VB
+antara	X
+Jerman	NNP
+dan	CC
+Uni	NNP
+Soviet	NNP
+,	Z
+dengan	SC,IN 
+Lituania	NNP
+dan	CC
+Slowakia	NNP
+mendapat	VB
+bagian	NN
+kecil	JJ
+.	Z
+
+
+Polandia	NNP
+tidak	NEG
+menyerah	VB
+;	Z
+mereka	PRP
+mendirikan	VB
+Negara	NNP
+Bawah	NNP
+Tanah	NNP
+Polandia	NNP
+dan	CC
+Pasukan	NNP
+Dalam Negeri	JJ
+bawah	NN
+tanah	NN
+,	Z
+dan	CC
+terus	RB
+berperang	VB
+bersama	VB
+Sekutu	NNP
+di	IN
+semua	CD
+front	X
+di	IN
+luar	JJ,NN 
+Polandia	NNP
+.	Z
+
+
+Sekitar	RB 
+100.000	CD
+personel	NN
+militer	NN
+Polandia	NNP
+diungsikan	VB
+ke	IN
+Rumania	NNP
+dan	CC
+negara-negara	NN
+Baltik	NNP
+;	Z
+sebagian besar	NN
+tentara	NN
+tersebut	PR,VB 
+kemudian	CC,NN 
+berperang	VB
+melawan	VB
+Jerman	NNP
+di	IN
+teater	X
+perang	NN
+yang	SC
+lain	JJ
+.	Z
+
+
+Pemecah	NN
+kode	NN
+Enigma	NNP
+Polandia	NNP
+juga	RB
+diungsikan	VB
+ke	IN
+Prancis	NNP
+.	Z
+
+
+Pada	IN
+saat	SC,NN 
+itu	PR
+pula	RB
+,	Z
+Jepang	NNP
+melancarkan	VB
+serangan	NN
+pertamanya	X
+ke	IN
+Changsha	NNP
+,	Z
+sebuah	X
+kota	NN
+Tiongkok	NNP
+yang	SC
+strategis	JJ
+,	Z
+tetapi	CC
+digagalkan	VB
+pada	IN
+akhir	NN
+September	NNP
+.	Z
+
+
+Setelah	SC
+invasi	NN
+Polandia	NNP
+dan	CC
+perjanjian	NN
+Jerman-Soviet	NNP
+atas	IN 
+Lituania	NNP
+,	Z
+Uni	NNP
+Soviet	NNP
+memaksa	VB
+negara-negara	NN
+Baltik	NNP
+mengizinkan	VB
+mereka	PRP
+menempatkan	VB
+tentara	NN
+Soviet	NNP
+di	IN
+negara	NN
+mereka	PRP
+atas	IN 
+alasan	NN
+
+"	Z
+
+bantuan	NN
+bersama	VB
+
+"	Z
+.	Z
+
+
+Finlandia	NNP
+menolak	VB
+permintaan	NN
+wilayah	NN
+dan	CC
+diserang	VB
+oleh	IN
+Uni	NNP
+Soviet	NNP
+pada	IN
+bulan	NN
+November	NNP
+1939	CD
+.	Z
+
+
+
+Konflik	NN
+yang	SC
+kemudian	CC,NN 
+pecah	JJ,VB 
+berakhir	VB
+pada	IN
+bulan	NN
+Maret	NNP
+1940	CD
+dengan	SC,IN 
+konsesi	NN
+oleh	IN
+Finlandia	NNP
+.	Z
+
+
+Prancis	NN
+dan	CC
+Britania	NNP
+Raya	NNP
+,	Z
+menyebut	VB
+serangan	NN
+Soviet	NNP
+ke	IN
+Finlandia	NNP
+sebagai	IN
+alasan	NN
+memasuki	VB
+kancah	X
+perang	NN
+di	IN
+pihak	NN
+Jerman	NNP
+,	Z
+menanggapi	VB
+invasi	NN
+Soviet	NNP
+dengan	SC 
+mendukung	VB
+dikeluarkan	VB
+nya	PRP
+Uni	NNP
+Soviet	NNP
+dari	IN
+Liga	NNP
+Bangsa-Bangsa	NNP
+.	Z
+
+
+Di	IN
+Eropa	NNP
+Barat	NNP
+,	Z
+tentara	NN
+Britania	NNP
+dikerahkan	VB
+ke	IN
+benua	NN
+ini	PR
+,	Z
+tetapi	CC
+pada	IN
+fase	X
+yang	SC
+dijuluki	VB
+Perang	NNP
+Phoney	NNP
+oleh	IN
+Britania	NNP
+dan	CC
+
+"	Z
+
+Sitzkrieg	NNP
+
+"	Z
+
+(perang	X
+duduk)	X
+oleh	IN
+Jerman	NNP
+tak	NEG
+satupun	X
+pihak	NN
+yang	SC
+melancarkan	VB
+operasi	NN
+besar-besaran	NN
+terhadap	IN
+satu	CD
+sama	JJ
+lain	JJ
+sampai	SC,IN 
+April	NNP
+1940	CD
+.	Z
+
+
+
+Uni	NN
+Soviet	NNP
+dan	CC
+Jerman	NNP
+membuat	VB
+pakta	NN
+dagang	VB
+pada	IN
+bulan	NN
+Februari	NNP
+1940	CD
+,	Z
+
+yang	SC
+berarti	VB
+Soviet	NNP
+menerima	VB
+bantuan militer	NN
+dan	CC
+industri	NN
+dengan	SC,IN 
+imbalan	NN
+menyediakan	VB
+bahan mentah	VB
+untuk	SC,IN 
+Jerman	NNP
+agar	SC
+bisa	MD 
+mengakali	VB
+pemblokiran	NN
+oleh	IN
+Sekutu	NNP
+.	Z
+
+
+Pada	IN
+bulan	NN
+April	NNP
+1940	CD
+,	Z
+
+Jerman	NNP
+menginvasi	VB
+Denmark	NNP
+dan	CC
+Norwegia	NNP
+untuk	SC 
+mengamankan	VB
+pengiriman	NN
+bijih besi	NN
+dari	IN
+Swedia	NNP
+,	Z
+yang	SC
+hendak	MD
+dihadang	VB
+oleh	IN
+Sekutu	NNP
+.	Z
+
+
+Denmark	NNP
+langsung	JJ
+menyerah	VB
+setelah	SC
+6	CD
+jam	NND
+,	Z
+dan	CC
+meski	SC
+dibantu	VB
+Sekutu	NNP
+,	Z
+Norwegia	NNP
+berhasil	JJ
+dikuasai	VB
+dalam	IN 
+waktu	NN
+dua	CD
+bulan	NN
+.	Z
+
+
+Bulan	NN
+Mei	NNP
+1940	CD
+,	Z
+
+Britania	NNP
+menyerbu	VB
+Islandia	NNP
+untuk	SC 
+mencegah	VB
+kemungkinan	NN
+invasi	NN
+Jerman	NNP
+ke	IN
+pulau	NN
+itu	PR
+.	Z
+
+
+Ketidakpuasan	NN
+Britania	NNP
+atas	IN 
+kampanye	NN
+Norwegia	NNP
+mendorong	VB
+penggantian	NN
+Perdana Menteri	NN
+Neville	NNP
+Chamberlain	NNP
+dengan	SC,IN 
+Winston	NNP
+Churchill	NNP
+pada	IN
+tanggal	NN,VB 
+10	CD
+Mei	NNP
+1940	CD
+.	Z
+
+
+
+Jerman	NNP
+menyerbu	VB
+Prancis	NNP
+,	Z
+Belgia	NNP
+,	Z
+Belanda	NNP
+,	Z
+dan	CC
+Luksemburg	NNP
+pada	IN
+tanggal	NN,VB 
+10	CD
+Mei	NNP
+1940	CD
+.	Z
+
+
+
+Belanda	NNP
+dan	CC
+Belgia	NNP
+kewalahan	X
+menghadapi	VB
+taktik	NN
+blitzkrieg	X
+dalam	IN 
+beberapa	CD
+hari	NN
+dan	CC
+minggu	NNP,NN 
+.	Z
+
+
+Jalur	NN
+Maginot	NNP
+yang	SC
+dipertahankan	VB
+Prancis	NNP
+dan	CC
+pasukan	NN
+Sekutu	NNP
+di	IN
+Belgia	NNP
+diakali	VB
+dengan	SC 
+bergerak	VB
+secara	JJ
+mengapit	VB
+melintasi	VB
+hutan	NN
+lebat	JJ
+Ardennes	NNP
+,	Z
+yang	SC
+disalahartikan	X
+oleh	IN
+perencana	NN
+perang	NN
+Prancis	NNP
+sebagai	IN
+penghalang	NN
+alami	JJ,VB 
+bagi	NN,IN,VB 
+kendaraan	NN
+lapis	NN,VB 
+baja	X
+.	Z
+
+
+Tentara	NN
+Britania	NNP
+terpaksa	VB
+keluar	VB
+dari	IN
+Eropa	NNP
+melalui	X
+Dunkirk	NNP
+,	Z
+meninggalkan	VB
+semua	CD
+peralatan	NN
+berat	JJ
+nya	PRP
+pada	IN
+awal	NN
+Juni	NNP
+.	Z
+
+
+Disini	VB
+Hitler	NNP
+memerintahkan	VB
+untuk	SC,IN 
+tidak	NEG
+menyerang	VB
+tentara	NN
+yang	SC
+terkepung	VB
+di	IN
+Pelabuhan	NNP
+Dunkirk	NNP
+,	Z
+mengakibatkan	VB
+kurang lebih	RB
+300.000	CD
+tentara	NN
+berhasil	JJ
+mengevakuasi	VB
+diri	NN,VB 
+menuju	VB
+daratan	NN
+Britania	NNP
+Raya	NNP
+,	Z
+hal	NN
+ini	PR
+dianggap	VB
+sebagai	IN
+blunder	X
+Hitler	NNP
+pertama	OD
+.	Z
+
+
+Tanggal	NN,VB 
+10	CD
+Juni	NNP
+,	Z
+Italia	NNP
+menyerbu	VB
+Prancis	NNP
+,	Z
+menyatakan	VB
+perang	NN
+terhadap	IN
+Prancis	NNP
+dan	CC
+Britania	NNP
+Raya	NNP
+;	Z
+dua	CD
+belas	CD
+hari kemudian	NN
+Prancis	NNP
+menyerah	VB
+dan	CC
+langsung	JJ
+dibe	VB
+lah	RP
+menjadi	VB
+zona	NN
+pendudukan	NN
+Jerman	NNP
+dan	CC
+Italia	NNP
+,	Z
+dan	CC
+sebuah	X
+negara	NN
+sisa	NN
+yang	SC
+tak	NEG
+diduduki	VB
+di bawah	VB
+Rezim	NNP
+Vichy	NNP
+yang	SC
+dipimpin	VB
+oleh	IN
+Philippe	NNP
+Pétain	NNP
+.	Z
+
+
+Pada	IN
+tanggal	NN,VB 
+3	CD
+Juli	NNP
+,	Z
+Britania	NNP
+menyerang	VB
+armada	NN
+Prancis	NNP
+di	IN
+Aljazair	NNP
+untuk	SC 
+mencegah	VB
+pengambil	NN
+alihan	NN
+kapal perang	NN
+prancis	NN
+oleh	IN
+Jerman	NNP
+.	Z
+
+
+Bulan	NN
+Juni	NNP
+,	Z
+pada	IN
+hari-hari	NN
+terakhir	OD
+Pertempuran	NNP
+Prancis	NNP
+,	Z
+Uni	NNP
+Soviet	NNP
+memaksa	VB
+aneksasi	X
+Estonia	NNP
+,	Z
+Latvia	NNP
+,	Z
+dan	CC
+Lituania	NNP
+,	Z
+lalu	VB/CC 
+menganeksasi	X
+wilayah	NN
+Bessarabia	NNP
+yang	SC
+dipertentangkan	VB
+Rumania	NNP
+.	Z
+
+
+Sementara itu	NNP
+,	Z
+kesesuaian	NN
+politik	NN
+dan	CC
+kerja sama	NN
+ekonomi	NN,VB 
+Nazi-Soviet	NNP
+perlahan	X
+buntu	NN
+,	Z
+dan	CC
+kedua	CD 
+negara	NN
+mulai	VB
+bersiap	VB
+untuk	IN 
+perang	NN
+.	Z
+
+
+Dengan	SC,IN 
+Prancis	NNP
+dinetralkan	VB
+,	Z
+Jerman	NNP
+memulai	VB
+kampanye	NN
+superioritas	NN
+udara atas	NN
+Britania	NNP
+(Pertempuran	X
+Britania)	NNP
+untuk	SC 
+mempersiapkan	VB
+sebuah	X
+invasi	NN
+.	Z
+
+
+Awal	NN
+nya	PRP
+Luftwaffe	NNP
+menargetkan	VB
+lapangan udara	NN
+dan	CC
+industri	NN
+Angkatan Udara	NN
+Kerajaan	NNP
+(RAF).	X
+
+Namun	CC
+,	Z
+serangkaian	X
+pengeboman	X
+Berlin	NNP
+yang	SC
+dirancang	VB
+oleh	IN
+Churchill	NNP
+membuat	VB
+Hitler	NNP
+murka	VB
+dan	CC
+memerintahkan	VB
+untuk	SC,IN 
+mengebom	X
+Kota	NNP
+London	NNP
+yang	SC
+menjadi	VB
+blunder	X
+Hitler	NNP
+kedua	OD,CD 
+.	Z
+
+
+Kampanye	NN
+ini	PR
+gagal	JJ
+,	Z
+dan	CC
+rencana	NN
+invasi	NN
+tersebut	PR,VB 
+dibatalkan	VB
+pada	IN
+bulan	NN
+September	NNP
+.	Z
+
+
+Menggunakan	VB
+pelabuhan-pelabuhan	NN
+Prancis	NNP
+yang	SC
+baru	JJ,NN,MD 
+dicaplok	VB
+,	Z
+Angkatan Laut	NN
+Jerman	NNP
+menikmati	VB
+kesuksesan	NN
+melawan	VB
+Angkatan Laut	NN
+Kerajaan	NNP
+dengan	SC 
+memakai	VB
+kapal-U	NN
+untuk	SC 
+menyerang	VB
+kapal-kapal	NN
+Britania	NNP
+di	IN
+Atlantik	NNP
+.	Z
+
+
+Italia	NNP
+memulai	VB
+operasi	NN
+nya	PRP
+di	IN
+Mediterania	NNP
+,	Z
+memulai	VB
+pengepungan	NN
+Malta	NNP
+bulan	NN
+Juni	NNP
+,	Z
+menguasai	VB
+Somaliland	NNP
+Britania	NNP
+bulan	NN
+Agustus	NNP
+,	Z
+dan	CC
+menerobos	VB
+wilayah	NN
+Mesir	NNP
+Britania	NNP
+bulan	NN
+September	NNP
+1940	CD
+.	Z
+
+
+
+Jepang	NNP
+meningkatkan	VB
+pemblokiran	NN
+nya	PRP
+terhadap	IN
+Tiongkok	NNP
+pada	IN
+bulan	NN
+September	NNP
+dengan	SC 
+merebut	VB
+sejumlah	CD
+pangkalan	NN
+di	IN
+wilayah	NN
+utara	NN
+Indochina	NNP
+Prancis	NNP
+yang	SC
+saat	SC,NN 
+ini	PR
+terisolasi	VB
+.	Z
+
