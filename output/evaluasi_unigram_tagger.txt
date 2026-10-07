@@ -1,4 +1,4 @@
-Akurasi: 86.59% (71/82 tag benar)
+Akurasi: 90.24% (74/82 tag benar)
 
 Kata	Prediksi	Ground truth	Status
 Jepang	NNP	NNP	Benar
@@ -27,15 +27,15 @@ buruk	NNP	JJ	Salah
 mulai	VB	VB	Benar
 menjalani	VB	VB	Benar
 pemulihan	NN	NN	Benar
-ekonomi	NNP	NN	Salah
+ekonomi	NN	NN	Benar
 setelah	SC	SC	Benar
 perang	NN	NN	Benar
 berakhir	VB	VB	Benar
 .	Z	Z	Benar
-Sejak	NNP	SC	Salah
+Sejak	SC	SC	Benar
 tahun	NN	NN	Benar
 1939	CD	CD	Benar
-hingga	NNP	SC	Salah
+hingga	SC	SC	Benar
 1941	CD	CD	Benar
 ,	Z	Z	Benar
 Jerman	NNP	NNP	Benar
@@ -80,6 +80,6 @@ Dewan Keamanan	NN	NN	Benar
 Perserikatan	NNP	NNP	Benar
 Bangsa-Bangsa	NNP	NNP	Benar
 yang	SC	SC	Benar
-baru	NNP	MD	Salah
+baru	JJ	MD	Salah
 didirikan	VB	VB	Benar
 .	Z	Z	Benar

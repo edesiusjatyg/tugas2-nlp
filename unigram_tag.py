@@ -24,6 +24,7 @@ def baca_data(nama_file):
                 if "/" in bagian:
                     # misalnya 'Dewan Keamanan/NN' jadi satu pasangan
                     kata, tag = " ".join(potongan).rsplit("/", 1)
+                    tag = tag.split(",")[0]
                     if not kata or not tag:
                         raise ValueError(f"Format salah: {nama_file}, baris {nomor}")
                     kalimat.append((kata, tag))

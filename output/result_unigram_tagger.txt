@@ -1,5 +1,5 @@
 Jepang/NNP menyerah/VB pada/IN tahun/NN 1945/CD ./Z
 Tentara/NN Britania/NNP tidak/NNP menyerang/VB kota/NN itu/NNP secara/JJ langsung/JJ ./Z
-Banyak/NNP negara/NN yang/SC industri/NN nya/PRP terkena/VB dampak/NN buruk/NNP mulai/VB menjalani/VB pemulihan/NN ekonomi/NNP setelah/SC perang/NN berakhir/VB ./Z
-Sejak/NNP tahun/NN 1939/CD hingga/NNP 1941/CD ,/Z Jerman/NNP dan/CC Italia/NNP membentuk/VB aliansi/NN Poros/NNP ,/Z menguasai/VB sebagian besar/NN benua/NN Eropa/NNP ./Z
-Para/NNP kekuatan/NN besar/JJ yang/SC merupakan/VB pemenang/NN perang/NN ,/Z yaitu/NNP Amerika/NNP Serikat/NNP ,/Z Uni/NNP Soviet/NNP ,/Z Tiongkok/NNP ,/Z Britania/NNP Raya/NNP ,/Z dan/CC Prancis/NNP ,/Z menjadi/VB anggota/NN tetap/NNP Dewan Keamanan/NN Perserikatan/NNP Bangsa-Bangsa/NNP yang/SC baru/NNP didirikan/VB ./Z
+Banyak/NNP negara/NN yang/SC industri/NN nya/PRP terkena/VB dampak/NN buruk/NNP mulai/VB menjalani/VB pemulihan/NN ekonomi/NN setelah/SC perang/NN berakhir/VB ./Z
+Sejak/SC tahun/NN 1939/CD hingga/SC 1941/CD ,/Z Jerman/NNP dan/CC Italia/NNP membentuk/VB aliansi/NN Poros/NNP ,/Z menguasai/VB sebagian besar/NN benua/NN Eropa/NNP ./Z
+Para/NNP kekuatan/NN besar/JJ yang/SC merupakan/VB pemenang/NN perang/NN ,/Z yaitu/NNP Amerika/NNP Serikat/NNP ,/Z Uni/NNP Soviet/NNP ,/Z Tiongkok/NNP ,/Z Britania/NNP Raya/NNP ,/Z dan/CC Prancis/NNP ,/Z menjadi/VB anggota/NN tetap/NNP Dewan Keamanan/NN Perserikatan/NNP Bangsa-Bangsa/NNP yang/SC baru/JJ didirikan/VB ./Z
