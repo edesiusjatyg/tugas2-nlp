@@ -1,3 +1,10 @@
+"""
+245150200111058 Luthfi Pratama Sahni: Membuat Grammar NP-Chunk, melakukan parsing lima kalimat pertama dari train.txt,
+dan menghasilkan parse tree.
+
+245150200111060 Damar Tyaga Wistara: Mengimplementasikan konversi hasil chunking ke format IOB 
+dan menguji kesesuaian hasil chunking.
+"""
 
 from pathlib import Path
 from nltk.chunk import RegexpParser
@@ -10,10 +17,8 @@ GRAMMAR = r"""
 NP: {<DT>?<CD>*<JJ>*<NN.*>+<JJ|X>*}
 """
 
-
 def baca_lima_kalimat(nama_file):
     data = []
-
     with (BASE_DIR / nama_file).open(
         encoding="utf-8-sig"
     ) as file:
@@ -26,7 +31,6 @@ def baca_lima_kalimat(nama_file):
 
             for bagian in baris.split():
                 potongan.append(bagian)
-
                 if "/" in bagian:
                     gabungan = " ".join(potongan)
                     kata, tag = gabungan.rsplit("/", 1)
@@ -35,12 +39,9 @@ def baca_lima_kalimat(nama_file):
 
             if kalimat:
                 data.append(kalimat)
-
             if len(data) == 5:
                 break
-
     return data
-
 
 def main():
     data = baca_lima_kalimat("train.txt")
@@ -68,12 +69,10 @@ def main():
                 file_iob.write(
                     f"{token}\t{pos}\t{iob}\n"
                 )
-
             file_iob.write("\n")
 
     print("Hasil tree: 2_hasil_np_tree.txt")
     print("Hasil IOB: 2_hasil_np_iob.txt")
-
 
 if __name__ == "__main__":
     main()
