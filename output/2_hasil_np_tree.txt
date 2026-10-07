@@ -1,0 +1,19 @@
+Grammar:
+
+NP: {<DT>?<CD>*<JJ>*<NN.*>+<JJ|X>*}
+
+
+Kalimat 1:
+(S Perang/X (NP Dunia/NN II/NNP) atau/CC (NP Perang/NNP Dunia/NNP Kedua/NNP) ,/Z sering/RB disingkat/VB menjadi/VB (NP PDII/NNP) atau/CC (NP PD2/NNP) ,/Z adalah/VB sebuah/X (NP perang/NN global/X) yang/SC berlangsung/VB mulai/VB (NP tahun/NN) 1939/CD sampai/IN 1945/CD ./Z)
+
+Kalimat 2:
+(S (NP Perang/NN) ini/PR melibatkan/VB (NP puluhan/CD negara/NN) di/IN (NP seluruh/CD penjuru/NN dunia/NN) -/SYM,Z termasuk/X (NP semua/CD kekuatan/NN besar-yang/JJ) pada/IN akhirnya/RB membentuk/VB (NP dua/CD aliansi/NN militer/NN) yang/SC saling/RB bertentangan/VB :/SYM,Z (NP Sekutu/NNP) dan/CC (NP Poros/NNP) ./Z)
+
+Kalimat 3:
+(S (NP Perang/NN) ini/PR merupakan/VB (NP perang/NN terluas/JJ) dalam/IN (NP sejarah/NN) yang/SC melibatkan/VB lebih/RB dari/IN (NP 100/CD juta/CD orang/NN) di/IN (NP berbagai/CD pasukan/NN militer/NN) ./Z)
+
+Kalimat 4:
+(S Dalam/IN (NP keadaan/NN) "/Z (NP perang total/NN) "/Z ,/Z (NP negara-negara/NN besar/JJ) memaksimalkan/VB (NP seluruh/CD kemampuan/NN ekonomi/NN,VB) ,/Z (NP industri/NN) ,/Z dan/CC (NP pengetahuan/NN ilmiah/JJ) nya/PRP untuk/SC,IN (NP keperluan/NN perang/NN) ,/Z sehingga/SC menghapus/VB (NP perbedaan/NN antara/X) (NP sumber daya/NN sipil/JJ) dan/CC (NP militer/NN) ./Z)
+
+Kalimat 5:
+(S Ditandai/VB oleh/IN (NP sejumlah/CD peristiwa/NN penting/JJ) yang/SC melibatkan/VB (NP kematian/NN massal/NN warga/NN sipil/JJ) ,/Z termasuk/X (NP Holokaus/NNP) dan/CC (NP pemakaian/NN senjata/NN destruktif/X) dalam/IN peperangan/X ,/Z (NP perang/NN) ini/PR memakan/VB (NP korban/NN jiwa/NN) sebanyak/CD 50/CD juta/CD sampai/SC,IN (NP 70/CD juta/CD jiwa/NN) ./Z)
