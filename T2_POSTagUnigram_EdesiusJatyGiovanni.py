@@ -4,6 +4,14 @@ script andryluthfi/indonesian-postag agar siap digunakan sebagai training set, s
 
 245150207111053 Alia Atikah Sana: Mengimplementasikan model unigram tagger menggunakan naive bayes, memprediksi POS tag pada test set,
 serta mengevaluasi hasil prediksi (unigram_tag.py, result_unigram_tagger.txt, evaluasi_unigram_tagger.txt).
+
+245150200111055 CHRISTIANO ALFONSIUS PURBA: Melakukan perhitungan manual pada 1_manual.docx
+
+245150200111058 Luthfi Pratama Sahni: Membuat Grammar NP-Chunk, melakukan parsing lima kalimat pertama dari train.txt,
+dan menghasilkan parse tree.
+
+245150200111060 Damar Tyaga Wistara: Mengimplementasikan konversi hasil chunking ke format IOB 
+dan menguji kesesuaian hasil chunking.
 """
 
 from pathlib import Path
@@ -107,6 +115,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# OUTPUT
-# Akurasi: 86.59% (71/82 tag benar)
