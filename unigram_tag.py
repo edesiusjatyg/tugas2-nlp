@@ -1,5 +1,9 @@
-"""Unigram POS tagger berbasis Naive Bayes, tanpa paket tambahan.
-Jalankan: python main.py. Semua file dibaca relatif terhadap lokasi script.
+"""
+245150200111021 Edesius Jaty Giovanni: Melakukan pembuatan raw corpus, preprocessing, dan POS tagging pada raw corpus menggunakan
+script andryluthfi/indonesian-postag agar siap digunakan sebagai training set, serta melakukan perhitungan manual pada 1_manual.docx
+
+245150207111053 Alia Atikah Sana: Mengimplementasikan model unigram tagger menggunakan naive bayes, memprediksi POS tag pada test set,
+serta mengevaluasi hasil prediksi (unigram_tag.py, result_unigram_tagger.txt, evaluasi_unigram_tagger.txt).
 """
 
 from pathlib import Path
@@ -18,7 +22,7 @@ def baca_data(nama_file):
             for bagian in baris.split():
                 potongan.append(bagian)
                 if "/" in bagian:
-                    # Misalnya 'Dewan Keamanan/NN' menjadi satu pasangan.
+                    # misalnya 'Dewan Keamanan/NN' jadi satu pasangan
                     kata, tag = " ".join(potongan).rsplit("/", 1)
                     if not kata or not tag:
                         raise ValueError(f"Format salah: {nama_file}, baris {nomor}")
@@ -105,5 +109,3 @@ if __name__ == "__main__":
 
 # OUTPUT
 # Akurasi: 86.59% (71/82 tag benar)
-# Prediksi: /Users/aliaatikahsana/NLP/tugas2-nlp/result_test.txt
-# Perbandingan: /Users/aliaatikahsana/NLP/tugas2-nlp/evaluasi.txt
